@@ -1,0 +1,660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bob's RPG Era v1.4\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: F. Phoenix\n"
+"Language-Team: Russian <ru@li.org>\n"
+"Language: ru"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+
+#region Bob's RPG Era
+msgid "Bob's RPG Era"
+msgstr ""
+
+msgid ""
+"Version 1.4\n \n"
+"- Right-click on your unit to design your character.\n"
+"- Disable autosaves if the game is lagging at the start of turns.\n"
+"- Please report bugs or leave feedback on the forum thread."
+msgstr ""
+"Версия 1.4\n \n"
+"- Для выбора особых характеристик персонажа воспользуйтесь его контекстным меню.\n"
+"- Если игра лагает в начале хода, попробуйте отключить автосохранение.\n"
+"- Сообщить о багах или оставить отзыв по эре можно в соответствующей теме на форуме."
+#endregion
+
+#region Bob's RPG Era: Competitive Mode
+msgid "Bob's RPG Era: Competitive Mode"
+msgstr "Bob's RPG Era: Режим противостояния"
+
+msgid ""
+"Version 1.4\n \n"
+"- Right-click on your unit to design your character.\n"
+"- Disable autosaves if the game is lagging at the start of turns.\n"
+"- Please report bugs or leave feedback on the forum thread.\n \n"
+"- Competitive mode is intended for survivals and standard battle maps with 1-6 players."
+msgstr ""
+"Версия 1.4\n \n"
+"- Для выбора особых характеристик персонажа воспользуйтесь его контекстным меню.\n"
+"- Если игра лагает в начале хода, попробуйте отключить автосохранение.\n"
+"- Сообщить о багах или оставить отзыв по эре можно в соответствующей теме на форуме.\n \n"
+"- Режим противостояния предназначен для карт на выживание и стандартный боев от 1 до 6 игроков."
+#endregion
+
+
+#1 ********** Контекстное меню **********
+
+msgid "Create Character"
+msgstr "Создать персонажа"
+
+msgid "Character Sheet"
+msgstr "Экран персонажа"
+
+msgid "Inventory"
+msgstr "Инвентарь"
+
+msgid "Stances"
+msgstr "Стойка"
+
+msgid "Use Weaponcraft"
+msgstr "Кузнечное дело"
+
+msgid "Use Herbalism"
+msgstr "Травничество"
+
+
+#2 ***** Создание персонажа *****
+
+msgid "Character Design"
+msgstr "Создание персонажа"
+
+msgid "Choose a portrait for your character."
+msgstr "Выберите портрет для своего персонажа."
+
+msgid "Choose a talent for your character."
+msgstr "Выберите талант, которым будет обладать ваш персонаж."
+
+msgid "Choose a defect for your character."
+msgstr "Выберите недостаток, которым будет обладать ваш персонаж."
+
+
+#2 *** Экран персонажа ***
+
+msgid ""
+"<span color='{BOB_GREEN}'>Class:</span>\n"
+"$character[$side_number].warrior_level_number|/4 $character[$side_number].warrior_level_name Warrior\n"
+"$character[$side_number].ranger_level_number|/4 $character[$side_number].ranger_level_name Ranger\n"
+"$character[$side_number].vagabond_level_number|/4 $character[$side_number].vagabond_level_name Vagabond\n"
+"$character[$side_number].magician_level_number|/4 $character[$side_number].magician_level_name Magician\n"
+" \n"
+"<span color='{BOB_GREEN}'>Weapon Skills:</span>\n"
+"Melee: $character[$side_number].melee_weapon_skill\n"
+"Ranged: $character[$side_number].ranged_weapon_skill\n"
+"Critical Hit Chance: $unit.variables.critical_chance"
+msgstr ""
+"<span color='{BOB_GREEN}'>Класс:</span>\n"
+"$character[$side_number].warrior_level_number|/4 $character[$side_number].warrior_level_name Warrior\n"
+"$character[$side_number].ranger_level_number|/4 $character[$side_number].ranger_level_name Ranger\n"
+"$character[$side_number].vagabond_level_number|/4 $character[$side_number].vagabond_level_name Vagabond\n"
+"$character[$side_number].magician_level_number|/4 $character[$side_number].magician_level_name Magician\n"
+" \n"
+"<span color='{BOB_GREEN}'>Боевые навыки:</span>\n"
+"Контактные: $character[$side_number].melee_weapon_skill\n"
+"Дальнобойные: $character[$side_number].ranged_weapon_skill\n"
+"Шанс критического удара: $unit.variables.critical_chance"
+
+
+msgid "list^Improve Character"
+msgstr "Улучшить персонажа"
+
+msgid "list^Inventory"
+msgstr "Инвентарь"
+
+msgid "list^Change Stance"
+msgstr "Смена стойки"
+
+msgid "list^Talk In Character"
+msgstr "Разговор"
+
+msgid "list^Help"
+msgstr "Справка"
+
+
+#3 *** Разговор ***
+
+msgid "What will you say?"
+msgstr "Что вы хотите сказать?"
+
+msgid "Custom Message"
+msgstr "Особое сообщение"
+
+msgid "Type Here:"
+msgstr "Введите здесь:"
+
+msgid "Suggest waiting Until Dawn"
+msgstr "Предложить подождать до рассвета"
+
+msgid "Suggest waiting Until Dusk"
+msgstr "Предложить подождать до заката"
+
+msgid "Suggest Following The Path"
+msgstr "Позвать за собой"
+
+msgid "Ask Party To Wait"
+msgstr "Попросить подождать"
+
+msgid "Ask For Help"
+msgstr "Попросить помощи"
+
+msgid "Offer Healing"
+msgstr "Предложить полечить"
+
+msgid "Request Healing"
+msgstr "Попросить полечить"
+
+msgid "Request Gold"
+msgstr "Попросить золота"
+
+msgid "Curse $character[1].name"
+msgstr "Обругать $character[1].name"
+
+msgid "Curse $character[2].name"
+msgstr "Обругать $character[2].name"
+
+msgid "Curse $character[3].name"
+msgstr "Обругать $character[3].name"
+
+msgid "Curse $character[4].name"
+msgstr "Обругать $character[4].name"
+
+msgid "Curse $character[5].name"
+msgstr "Обругать $character[5].name"
+
+msgid "Curse $character[6].name"
+msgstr "Обругать $character[6].name"
+
+msgid "Praise $character[1].name"
+msgstr "Похвалить $character[1].name"
+
+msgid "Praise $character[2].name"
+msgstr "Похвалить $character[2].name"
+
+msgid "Praise $character[3].name"
+msgstr "Похвалить $character[3].name"
+
+msgid "Praise $character[4].name"
+msgstr "Похвалить $character[4].name"
+
+msgid "Praise $character[5].name"
+msgstr "Похвалить $character[5].name"
+
+msgid "Praise $character[6].name"
+msgstr "Похвалить $character[6].name"
+
+msgid "Advise Caution"
+msgstr ""
+
+msgid "Ask Which Way To Go"
+msgstr ""
+
+msgid "Suggest Heading North"
+msgstr "Предложить северное направление"
+
+msgid "Suggest Heading South"
+msgstr "Предложить южное направление"
+
+msgid "Suggest Heading West"
+msgstr "Предложить западное направление"
+
+msgid "Suggest Heading East"
+msgstr "Предложить восточное направление"
+
+msgid "Rallying Call"
+msgstr ""
+
+msgid "Belligerent Boast"
+msgstr ""
+
+msgid "Battle Cry"
+msgstr "Боевой клич"
+
+msgid "Suggest Splitting Up"
+msgstr "Предложить разделиться"
+
+msgid "Suggest Sticking Together"
+msgstr "Предложить объединиться"
+
+msgid "Suggest Fleeing"
+msgstr "Предложить бегство"
+
+msgid "Suggest Retreating"
+msgstr "Предложить отступление"
+
+msgid "Heroic Last Words"
+msgstr "Героические предсмертные слова"
+
+msgid "Lamentful Last Words"
+msgstr "Горестные предсмертные слова"
+
+
+#3 *** Справка ***
+
+msgid "Bob's RPG Era - Help"
+msgstr "Справка по Bob's RPG Era"
+
+msgid "Select a topic."
+msgstr "Выберите статью."
+
+msgid "help^Character Class"
+msgstr "Класс персонажа"
+
+msgid "help^Race"
+msgstr "Раса персонажа"
+
+msgid "help^Stances"
+msgstr "Боевые стойки"
+
+msgid "help^Inventory"
+msgstr "Инвентарь"
+
+msgid "help^Critical Hits"
+msgstr "Критические удары"
+
+
+#2 ***** Общее *****
+
+msgid "Return To Game"
+msgstr "Вернуться в игру"
+
+
+#1 ********** Таланты **********
+
+#region Weaponcraft
+msgid "weaponcraft"
+msgstr "кузнец"
+
+msgid "female^weaponcraft"
+msgstr "кузнец"
+
+msgid "You've learned to take great care of your weapon, knowing that preparation is often decisive on the battlefield. Weaponcraft allows you to use raw materials from your inventory to improve your melee weapon. This is done by right-clicking on your character."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Weaponcraft"
+msgstr "Кузнец"
+
+msgid ""
+"You are skilled at preparing and maintaining your weapon.\n"
+"Effect: Allows you to use raw materials to improve melee weapons."
+msgstr ""
+"You are skilled at preparing and maintaining your weapon.\n"
+"Эффект: Allows you to use raw materials to improve melee weapons."
+#endregion
+
+#region Rouser
+msgid "rouser"
+msgstr "буян"
+
+msgid "female^rouser"
+msgstr "буян"
+
+msgid "With fine words and a steely resolve you are able to rouse your allies into performing deeds of bravery. A unit that has been roused begins their turn with two extra movement points. This is done by right-clicking on an adjacent friendly unit. It can only be done once a turn."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Rouser"
+msgstr "Буян"
+
+msgid ""
+"You are able to rouse allies into performing deeds of bravery.\n"
+"Effect: Allows you to give others a temporary movement bonus."
+msgstr ""
+"You are able to rouse allies into performing deeds of bravery.\n"
+"Эффект: Allows you to give others a temporary movement bonus."
+#endregion
+
+#region Rider
+msgid "rider"
+msgstr ""
+
+msgid "female^rider"
+msgstr ""
+
+msgid "You are trained in the art of riding. Any animal with the 'mount' ability can be mounted by a rider. This is done by right-clicking on an adjacent unit. To dismount, right-click again on an empty adjacent hex. Whilst mounted your max moves, movetype and pierce resistances are modified."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Rider"
+msgstr "Всадник"
+
+msgid ""
+"You are trained in the art of riding.\n"
+"Effect: Allows you to mount and ride horses."
+msgstr ""
+"You are trained in the art of riding.\n"
+"Эффект: Allows you to mount and ride horses."
+#endregion
+
+#region Herbalism
+msgid "herbalism"
+msgstr ""
+
+msgid "female^herbalism"
+msgstr ""
+
+msgid "You have a thorough knowledge of plants and their medicinal properties. Herbalism allows you to use raw materials from your inventory to apply medicinal balms. This is done by right-clicking on your character."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Herbalism"
+msgstr "Хербалист"
+
+msgid ""
+"You have a thorough knowledge of plants and their medicinal properties.\n"
+"Effect: Allows you to use raw materials to create simple balms."
+msgstr ""
+"You have a thorough knowledge of plants and their medicinal properties.\n"
+"Эффект: Allows you to use raw materials to create simple balms."
+#endregion
+
+#region Tamer
+msgid "tamer"
+msgstr ""
+
+msgid "female^tamer"
+msgstr ""
+
+msgid "You have a natural affinity with beasts of the wild. Each turn, instead of attacking, a tamer can attempt to tame a creature or monster. This is done by right-clicking on a suitable adjacent unit. A taming attempt has a 60% of success. If the attempt fails the creature will lash out; if it is successful, the creature will join the side of the tamer. However, every subsequent turn there is a 30% chance that the creature will become wild again."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Tamer"
+msgstr ""
+
+msgid ""
+"You have a natural affinity with beasts of the wild.\n"
+"Effect: Allows you to temporarily tame creatures."
+msgstr ""
+"You have a natural affinity with beasts of the wild.\n"
+"Эффект: Allows you to temporarily tame creatures."
+#endregion
+
+#region Pickpocket
+msgid "pickpocket"
+msgstr "карманник"
+
+msgid "female^pickpocket"
+msgstr "карманница"
+
+msgid "Your fingers have a habit of slipping into other people's purses. Each turn, instead of attacking, a pickpocket can attempt to steal gold from a unit (but only those likely to carry some). This is done by right-clicking on a suitable adjacent unit. A pickpocket attempt has a 60% of success. If the attempt fails the unit will notice and strike out; if it is successful, the pickpocket earns a small random sum of gold. You can only ever try to pickpocket a unit once, even if the attempt fails. Richer pickings can be found in the pockets of higher level units."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Pickpocket"
+msgstr "Карманник"
+
+msgid ""
+"Your fingers have a habit of slipping into other people's purses.\n"
+"Effect: Allows you to steal gold from other units."
+msgstr ""
+"Your fingers have a habit of slipping into other people's purses.\n"
+"Эффект: Allows you to steal gold from other units."
+#endregion
+
+#region Trapper
+msgid "trapper"
+msgstr ""
+
+msgid "female^trapper"
+msgstr ""
+
+msgid "You are skilled at ensnaring both man and beast alike. A trapper can use raw materials from their inventory to create traps. This is done by right-clicking on your character. To set a trap you must right-click on an empty non-water adjacent hex. Traps remain on the map until a unit sets it off or a trapper picks it up."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Trapper"
+msgstr ""
+
+msgid ""
+"You are skilled at ensnaring both man and beast alike.\n"
+"Effect: Allows you to make and set traps."
+msgstr ""
+"You are skilled at ensnaring both man and beast alike.\n"
+"Эффект: Allows you to make and set traps."
+#endregion
+
+#region Concoction
+msgid "concoction"
+msgstr ""
+
+msgid "female^concoction"
+msgstr ""
+
+msgid "You have mastered the art of fusing the elements into potent fluids. Concoction allows you to use raw materials from your inventory to create potions. This is done by right-clicking on your character."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Concoction"
+msgstr "Алхимик"
+
+msgid ""
+"You have mastered the art of fusing the elements into potent fluids.\n"
+"Effect: Allows you to mix raw materials to create potions."
+msgstr ""
+"You have mastered the art of fusing the elements into potent fluids.\n"
+"Эффект: Позволяет создавать зелья из различного сырья."
+#endregion
+
+#region Conjurer
+msgid "conjurer"
+msgstr ""
+
+msgid "female^conjurer"
+msgstr ""
+
+msgid "You have the power to conjure creatures out of the ether. Conjuring allows you to use raw materials from your inventory to create new units. This is done by right-clicking on an empty non-water adjacent hex. Every turn there is a 30% chance the magic will wane and the conjured creature will vanish."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Conjurer"
+msgstr "Колдун"
+
+msgid ""
+"You have the power to conjure creatures out of the ether.\n"
+"Effect: Allows you use raw materials to create new units."
+msgstr ""
+"You have the power to conjure creatures out of the ether.\n"
+"Эффект: Allows you use raw materials to create new units."
+#endregion
+
+#region Casting
+msgid "casting"
+msgstr ""
+
+msgid "female^casting"
+msgstr ""
+
+msgid "You have learned to harness the flux of magic and bind it to your will. Casting allows you to use magic scrolls. This is done by right-clicking on the target of the spell."
+msgstr ""
+#endregion
+
+
+#1 ********** Недостатки **********
+
+#region Naive
+msgid "naive"
+msgstr "наивный"
+
+msgid "female^naive"
+msgstr "наивная"
+
+msgid "You are inexperienced and unprepared for the trials of life. You start with with -5 character points."
+msgstr "Вы неопытны и неподготовлены к жизненным испытаниям. -5 очков персонажа при старте."
+
+# Меню создания персонажа
+
+msgid "Naive"
+msgstr "Наивный"
+
+msgid ""
+"You are inexperienced and unprepared for the trials of life.\n"
+"Effect: You start with -5 character points."
+msgstr ""
+"Вы неопытны и неподготовлены к жизненным испытаниям.\n"
+"Эффект: -5 очков персонажа при старте."
+#endregion
+
+#region Selfish
+msgid "selfish"
+msgstr "эгоист"
+#* msgstr "единоличник"
+
+msgid "female^selfish"
+msgstr "эгоистка"
+
+msgid "You are greedy and your reluctance to share your spoils is usually repaid in kind. You cannot give or be given items."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Selfish"
+msgstr "Эгоист"
+
+msgid ""
+"Your greed and reluctance to share your spoils is repaid in kind.\n"
+"Effect: You cannot give or be given items."
+msgstr ""
+"Your greed and reluctance to share your spoils is repaid in kind.\n"
+"Эффект: You cannot give or be given items."
+#endregion
+
+#region Cowardly
+msgid "cowardly"
+msgstr "трусливый"
+
+msgid "female^cowardly"
+msgstr "трусливая"
+
+msgid "You cannot stand the sight of blood, especially your own. You fight worse in melee combat when wounded."
+msgstr "Вы не выносите вида крови, особенно своей собственной. "
+
+# Меню создания персонажа
+
+msgid "Cowardly"
+msgstr "Трусливый"
+
+msgid ""
+"You cannot stand the sight of blood, especially your own.\n"
+"Effect: You fight worse in melee combat when wounded."
+msgstr ""
+"You cannot stand the sight of blood, especially your own.\n"
+"Эффект: You fight worse in melee combat when wounded."
+#endregion
+
+#region Clubfoot
+msgid "clubfoot"
+msgstr "косолапый"
+
+msgid "female^clubfoot"
+msgstr "косолапая"
+
+msgid "Your deformity means you walk with an awkward gait, forever trailing behind. You cannot use the run stance."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Clubfoot"
+msgstr "Косолапый"
+
+msgid ""
+"You walk with an awkward gait, forever trailing behind.\n"
+"Effect: You have -1 movement and cannot use the run stance."
+msgstr ""
+"You walk with an awkward gait, forever trailing behind.\n"
+"Эффект: -1 единица передвижения и невозможность бегать."
+#endregion
+
+#region Diseased
+msgid "diseased"
+msgstr "больной"
+
+msgid "female^diseased"
+msgstr "больная"
+
+msgid "Afflicted with a rare ailment, you are clouded by misery and pestilience. At the start of your turn there is a 15% chance you will be poisoned."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Diseased"
+msgstr "Больной"
+
+msgid ""
+"Afflicted with a rare ailment, your life is clouded by pestilience.\n"
+"Effect: Every turn there is a 15% chance you'll be poisoned."
+msgstr ""
+"Afflicted with a rare ailment, your life is clouded by pestilience.\n"
+"Эффект: На каждом ходу есть 15% шанс получить отравление."
+#endregion
+
+#region Stupid
+msgid "stupid"
+msgstr "глупый"
+
+msgid "female^stupid"
+msgstr "глупая"
+
+msgid "Ideas don't come easily to you, in fact you struggle with even the simplest of mental tasks."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Stupid"
+msgstr "Глупый"
+
+msgid ""
+"You struggle with even the simplest mental tasks.\n"
+"Effect: Your max XP is increased by 20%."
+msgstr ""
+"You struggle with even the simplest mental tasks.\n"
+"Эффект: Максимальный опыт увеличивается на 20%."
+#endregion
+
+#region Psycho
+msgid "psycho"
+msgstr "псих"
+
+msgid "female^psycho"
+msgstr "псих"
+
+msgid "A troubled childhood has left you prone to fits of self-destructive insanity. There is a 10% chance you will start bezerking whenever you make a melee attack."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Psycho"
+msgstr "Псих"
+
+msgid ""
+"A troubled childhood has left you prone to fits of insanity.\n"
+"Effect: When you attack there's a 10% chance you'll go bezerk."
+msgstr ""
+"A troubled childhood has left you prone to fits of insanity.\n"
+"Эффект: При атаке 10% шанс впасть в состояние берсерка."
+#endregion
+
+
