@@ -47,25 +47,1808 @@ msgstr ""
 #endregion
 
 
+#1 ********** Бойцы **********
+
+#2 ***** Войны *****
+
+msgid "Warriors"
+msgstr "Войны"
+
+msgid "Warrior"
+msgstr "Воин"
+
+msgid "Mounted Warrior"
+msgstr ""
+
+# Elf Hero (m)
+msgid "A relatively small amount of experience will turn an elf from a competent fighter into a master of combat. Those who are honored as warriors are strong with sword and sometimes bow, and their skill once acquired does not fade for lack of practice."
+msgstr ""
+
+# Human Lieutenant (m)
+msgid ""
+"Weapon Skills:\n"
+"Melee: Swordsmanship\n"
+"Ranged: Crossbowmanship"
+msgstr ""
+
+# Без описания: Human Javelineer (m), Dwarf Stalwart (m), Dwarf Steelclad (m)
+
+#2 ***** Следопыты *****
+
+msgid "Rangers"
+msgstr "Следопыты"
+
+msgid "Ranger"
+msgstr "Следопыт"
+
+msgid "female^Ranger"
+msgstr "Следопыт"
+
+# Elf Archer (mf)
+msgid "Though a man might spend years in the forest, he will never shake the feeling that he is a guest in a place he is not truly a part of. With elves, this is quite reversed. Any elf that studies the lore of the woods becomes a fitting master of them. This, combined with a considerable skill at archery, is very useful in warfare."
+msgstr ""
+
+# Human Trapper (m)
+msgid ""
+"Master woodsmen are useful allies to any army, and indispensable for any sizable group of people living in the wilderness. They can track both man and beast, notice things most others would overlook, and are often the only ones who can find food for the table, be it animal or vegetable.\n\n"
+"Their skill at hunting is very useful in combat, and also leaves them unusually competent at night, and in forests and swamps."
+msgstr ""
+
+# Без описания: Dwarf Pathfinder (m)
+
+#2 ***** Бродяги *****
+
+msgid "Vagabonds"
+msgstr "Бродяги"
+
+msgid "Vagabond"
+msgstr "Бродяга"
+
+msgid "female^Vagabond"
+msgstr "Бродяга"
+
+# Human Duelist (m)
+msgid "Duelists are typically the waywards sons of aristocrats who have turned their backs on the stuffy world of their parents in search of adventure. This reckless streak often leads them into an underworld of crime and infamy."
+msgstr ""
+
+# Human Outlaw (mf)
+msgid "After some years of service, former 'footpads' rise up in the ranks of their fellow outlaws. Having proven themselves in combat, they are given more dangerous tasks, and a greater share of the spoils. Though many opponents would mock their choice of weaponry, the outlaws are well aware of its deadly capacity, and also of the ready availability of ammunition. Outlaws are somewhat ill at ease fighting during the day, preferring the cover of nightfall."
+msgstr ""
+
+# Human Rogue (mf)
+msgid "The ringleaders of any group of thieves earn their positions by skill. These rogues have spent many an unpleasant moment darting through crowds and dodging away from those who wish them ill, a set of skills which is very handy in a fight. Masters of knifework, they can also throw knives with reliable accuracy, and their long hours of prowling around at night leave them more comfortable fighting in the dark."
+msgstr ""
+
+# Human Traveller (f)
+msgid "A noble by birth, the Traveller has learnt swordplay with the greatest generals, but she is the product of a failed aristocracy who has opted for the life of a nomad. She dreams of founding her own Queendom with the plunder she finds on the road."
+msgstr ""
+
+#2 ***** Маги *****
+
+msgid "Magicians"
+msgstr "Маги"
+
+msgid "Magician"
+msgstr "Маг"
+
+msgid "female^Magician"
+msgstr "Маг"
+
+# Elf Druid (f)
+msgid "The magic of the wood-elves is poorly suited for combat, but effective nonetheless. The forests in which they live can be quickened by a word of command, and will lash out at those who threaten their peace."
+msgstr ""
+
+# Elf Sorceress (f)
+msgid ""
+"The world of faerie is far more potent than the corporeal world. Simply bringing some of this world into our own can have violent results. This is well-understood by the elves, although rarely used with malicious intent; doing so is no easy task, and is a very ill-regarded use of their strength.\n\n"
+"Those able to do so are roughly titled as 'sorceresses' by other races; and certainly are capable of acting the part."
+msgstr ""
+
+# Human Red Mage (mf)
+msgid ""
+"Upon the successful culmination of their apprenticeship, a mage is stripped of the brown robes of an apprentice and given the ruddy cloak of a master. The significance of this change is often lost on the peasantry, who mistakenly title Master Magi as 'Red Magi'. Likewise, the symbolism of the change in colors is often mistaken to signify the mage's ability to seemingly conjure fire from nothing but thin air, a trick which, although undeniably useful, is viewed by the magi themselves as a crass application of their hard-won knowledge.\n\n"
+"Though physically frail, and untrained as warriors, the 'Red Magi' have a number of tricks up their sleeves, including the gouts of fire which may have cemented their colloquial name."
+msgstr ""
+
+# Human White Mage (mf)
+msgid ""
+"Some magi, as they learn about the world around them, and learn the truth of the suffering and squalor in which humanity too often lives, find that they cannot bring themselves to be cloistered into a life of study. These men and women give up the life of a mage, and join monastic orders, dedicating the skills they have been given to the good of all.\n\n"
+"Though not trained for combat, they are a potent ally against magical or unnatural things."
+msgstr ""
+
+# Human Sorcerer (mf)
+msgid ""
+"The dread inspired by black magic comes chiefly from how little is known about it by the common man. Dark sorcerers have begun to unlock the secrets of life and death, the latter of which is all too easy to inflict. This labor gives the first glimmerings of the connection between the soul and inert matter, and the first successful experiments in manipulating this bond. The terrible unknown that lurks beyond death is glimpsed, and will inevitably be fathomed.\n\n"
+"Despite any design they may have of using this to wrest their own immortality from nature's grasp, the first results of their work have immediate, and unpleasant applications. The life they breathe into dead matter can create servants for them, servants which will work, but which will also kill, and will never question their masters. These creations have a loyalty any tyrant would dream of, and it is tempting to those with even the merest desire for power."
+msgstr ""
+
+#2 ***** Гибриды *****
+
+msgid "Mixed Class"
+msgstr "Гибриды"
+
+msgid "Warrior Ranger"
+msgstr "Воин-следопыт"
+
+msgid "Warrior Magician"
+msgstr "Воин-маг"
+
+msgid "Vagabond Magician"
+msgstr "Маг-бродяга"
+
+msgid "female^Vagabond Magician"
+msgstr "Маг-бродяга"
+
+# Без описания: Battle Mage (f), Dwarf Runemaster (m), Elf Lord (m), Human Longbowman (m), Necromancer Warrior (m)
+
+#2 ***** Второстепенные *****
+
+msgid "race^Horse"
+msgstr ""
+
+msgid "race^Horses"
+msgstr ""
+
+msgid "Horse"
+msgstr "Лошадь"
+
+msgid "Wose Sapling"
+msgstr ""
+
+msgid ""
+"Rarely seen, even by elves, a Wose is an order of creature about which little is known. The elves are the source of most of this knowledge; they know that these beings are not descended from trees, despite the similarity in form, and they know that a wose is more closely tied to the faerie world than the elves themselves, though in a different way. The motives and workings of their kind are unknown, though most posit the obvious idea that woses are wardens of the natural world.\n\n"
+"Woses are utterly unwarlike, but possess a great strength. They are, however, neither used to, nor quick at moving around."
+msgstr ""
+
+msgid "Swampcrawler"
+msgstr "Болотник"
+
+msgid "An ancestor of Mudcrawlers, Swampcrawlers are basic lifeforms comprised of slime and water. They attack by belching lumps of slime at their foes."
+msgstr ""
+
+msgid "Giant Swampcrawler"
+msgstr "Гигантский болотник"
+
+msgid "Giant Swampcrawlers are a larger kind of Swampcrawler, comprised of congealed slime and water. They attack by belching lumps of slime at their foes, or by striking them with their fists."
+msgstr ""
+
+
+#1 ********** Атаки **********
+
+msgid "sceptre"
+msgstr "скипетр"
+
+msgid "slime glob"
+msgstr "кусок слизи"
+
+msgid "stampede"
+msgstr ""
+
+
+#1 ********** Таланты **********
+
+#region Weaponcraft
+msgid "weaponcraft"
+msgstr "кузнец"
+
+msgid "female^weaponcraft"
+msgstr "кузнец"
+
+msgid "You've learned to take great care of your weapon, knowing that preparation is often decisive on the battlefield. Weaponcraft allows you to use raw materials from your inventory to improve your melee weapon. This is done by right-clicking on your character."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Weaponcraft"
+msgstr "Кузнец"
+
+msgid ""
+"You are skilled at preparing and maintaining your weapon.\n"
+"Effect: Allows you to use raw materials to improve melee weapons."
+msgstr ""
+"You are skilled at preparing and maintaining your weapon.\n"
+"Эффект: Allows you to use raw materials to improve melee weapons."
+#endregion
+
+#region Rouser
+msgid "rouser"
+msgstr "буян"
+
+msgid "female^rouser"
+msgstr "буян"
+
+msgid "With fine words and a steely resolve you are able to rouse your allies into performing deeds of bravery. A unit that has been roused begins their turn with two extra movement points. This is done by right-clicking on an adjacent friendly unit. It can only be done once a turn."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Rouser"
+msgstr "Буян"
+
+msgid ""
+"You are able to rouse allies into performing deeds of bravery.\n"
+"Effect: Allows you to give others a temporary movement bonus."
+msgstr ""
+"You are able to rouse allies into performing deeds of bravery.\n"
+"Эффект: Allows you to give others a temporary movement bonus."
+#endregion
+
+#region Rider
+msgid "rider"
+msgstr ""
+
+msgid "female^rider"
+msgstr ""
+
+msgid "You are trained in the art of riding. Any animal with the 'mount' ability can be mounted by a rider. This is done by right-clicking on an adjacent unit. To dismount, right-click again on an empty adjacent hex. Whilst mounted your max moves, movetype and pierce resistances are modified."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Rider"
+msgstr "Всадник"
+
+msgid ""
+"You are trained in the art of riding.\n"
+"Effect: Allows you to mount and ride horses."
+msgstr ""
+"You are trained in the art of riding.\n"
+"Эффект: Allows you to mount and ride horses."
+#endregion
+
+#region Herbalism
+msgid "herbalism"
+msgstr "травник"
+
+msgid "female^herbalism"
+msgstr "травница"
+
+msgid "You have a thorough knowledge of plants and their medicinal properties. Herbalism allows you to use raw materials from your inventory to apply medicinal balms. This is done by right-clicking on your character."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Herbalism"
+msgstr "Хербалист"
+
+msgid ""
+"You have a thorough knowledge of plants and their medicinal properties.\n"
+"Effect: Allows you to use raw materials to create simple balms."
+msgstr ""
+"You have a thorough knowledge of plants and their medicinal properties.\n"
+"Эффект: Allows you to use raw materials to create simple balms."
+#endregion
+
+#region Tamer
+msgid "tamer"
+msgstr ""
+
+msgid "female^tamer"
+msgstr ""
+
+msgid "You have a natural affinity with beasts of the wild. Each turn, instead of attacking, a tamer can attempt to tame a creature or monster. This is done by right-clicking on a suitable adjacent unit. A taming attempt has a 60% of success. If the attempt fails the creature will lash out; if it is successful, the creature will join the side of the tamer. However, every subsequent turn there is a 30% chance that the creature will become wild again."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Tamer"
+msgstr ""
+
+msgid ""
+"You have a natural affinity with beasts of the wild.\n"
+"Effect: Allows you to temporarily tame creatures."
+msgstr ""
+"You have a natural affinity with beasts of the wild.\n"
+"Эффект: Позволяет временно приручать существ."
+#endregion
+
+#region Pickpocket
+msgid "pickpocket"
+msgstr "карманник"
+
+msgid "female^pickpocket"
+msgstr "карманница"
+
+msgid "Your fingers have a habit of slipping into other people's purses. Each turn, instead of attacking, a pickpocket can attempt to steal gold from a unit (but only those likely to carry some). This is done by right-clicking on a suitable adjacent unit. A pickpocket attempt has a 60% of success. If the attempt fails the unit will notice and strike out; if it is successful, the pickpocket earns a small random sum of gold. You can only ever try to pickpocket a unit once, even if the attempt fails. Richer pickings can be found in the pockets of higher level units."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Pickpocket"
+msgstr "Карманник"
+
+msgid ""
+"Your fingers have a habit of slipping into other people's purses.\n"
+"Effect: Allows you to steal gold from other units."
+msgstr ""
+"Your fingers have a habit of slipping into other people's purses.\n"
+"Эффект: Allows you to steal gold from other units."
+#endregion
+
+#region Trapper
+msgid "trapper"
+msgstr ""
+
+msgid "female^trapper"
+msgstr ""
+
+msgid "You are skilled at ensnaring both man and beast alike. A trapper can use raw materials from their inventory to create traps. This is done by right-clicking on your character. To set a trap you must right-click on an empty non-water adjacent hex. Traps remain on the map until a unit sets it off or a trapper picks it up."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Trapper"
+msgstr ""
+
+msgid ""
+"You are skilled at ensnaring both man and beast alike.\n"
+"Effect: Allows you to make and set traps."
+msgstr ""
+"You are skilled at ensnaring both man and beast alike.\n"
+"Эффект: Allows you to make and set traps."
+#endregion
+
+#region Concoction
+msgid "concoction"
+msgstr ""
+
+msgid "female^concoction"
+msgstr ""
+
+msgid "You have mastered the art of fusing the elements into potent fluids. Concoction allows you to use raw materials from your inventory to create potions. This is done by right-clicking on your character."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Concoction"
+msgstr "Алхимик"
+
+msgid ""
+"You have mastered the art of fusing the elements into potent fluids.\n"
+"Effect: Allows you to mix raw materials to create potions."
+msgstr ""
+"You have mastered the art of fusing the elements into potent fluids.\n"
+"Эффект: Позволяет создавать зелья из различного сырья."
+#endregion
+
+#region Conjurer
+msgid "conjurer"
+msgstr ""
+
+msgid "female^conjurer"
+msgstr ""
+
+msgid "You have the power to conjure creatures out of the ether. Conjuring allows you to use raw materials from your inventory to create new units. This is done by right-clicking on an empty non-water adjacent hex. Every turn there is a 30% chance the magic will wane and the conjured creature will vanish."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Conjurer"
+msgstr "Колдун"
+
+msgid ""
+"You have the power to conjure creatures out of the ether.\n"
+"Effect: Allows you use raw materials to create new units."
+msgstr ""
+"You have the power to conjure creatures out of the ether.\n"
+"Эффект: Позволяет создавать существ из различных предметов."
+#endregion
+
+#region Casting
+msgid "casting"
+msgstr ""
+
+msgid "female^casting"
+msgstr ""
+
+msgid "You have learned to harness the flux of magic and bind it to your will. Casting allows you to use magic scrolls. This is done by right-clicking on the target of the spell."
+msgstr ""
+#endregion
+
+
+#1 ********** Недостатки **********
+
+#region Naive
+msgid "naive"
+msgstr "наивный"
+
+msgid "female^naive"
+msgstr "наивная"
+
+msgid "You are inexperienced and unprepared for the trials of life. You start with with -5 character points."
+msgstr "Вы неопытны и неподготовлены к жизненным испытаниям. -5 очков персонажа при старте."
+
+# Меню создания персонажа
+
+msgid "Naive"
+msgstr "Наивный"
+
+msgid ""
+"You are inexperienced and unprepared for the trials of life.\n"
+"Effect: You start with -5 character points."
+msgstr ""
+"Вы неопытны и неподготовлены к жизненным испытаниям.\n"
+"Эффект: -5 очков персонажа при старте."
+#endregion
+
+#region Selfish
+msgid "selfish"
+msgstr "единоличник"
+#* msgstr "эгоист"
+#* msgstr "жадный"
+
+msgid "female^selfish"
+msgstr "единоличница"
+
+msgid "You are greedy and your reluctance to share your spoils is usually repaid in kind. You cannot give or be given items."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Selfish"
+msgstr "Единоличник"
+
+msgid ""
+"Your greed and reluctance to share your spoils is repaid in kind.\n"
+"Effect: You cannot give or be given items."
+msgstr ""
+"Your greed and reluctance to share your spoils is repaid in kind.\n"
+"Эффект: You cannot give or be given items."
+#endregion
+
+#region Cowardly
+msgid "cowardly"
+msgstr "трусливый"
+
+msgid "female^cowardly"
+msgstr "трусливая"
+
+msgid "You cannot stand the sight of blood, especially your own. You fight worse in melee combat when wounded."
+msgstr "Плохо сражается в ближнем бою после ранений."
+
+# Меню создания персонажа
+
+msgid "Cowardly"
+msgstr "Трусливый"
+
+msgid ""
+"You cannot stand the sight of blood, especially your own.\n"
+"Effect: You fight worse in melee combat when wounded."
+msgstr ""
+"Вы не выносите вида крови, особенно своей собственной.\n"
+"Эффект: You fight worse in melee combat when wounded."
+#endregion
+
+#region Clubfoot
+msgid "clubfoot"
+msgstr "косолапый"
+
+msgid "female^clubfoot"
+msgstr "косолапая"
+
+msgid "Your deformity means you walk with an awkward gait, forever trailing behind. You cannot use the run stance."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Clubfoot"
+msgstr "Косолапый"
+
+msgid ""
+"You walk with an awkward gait, forever trailing behind.\n"
+"Effect: You have -1 movement and cannot use the run stance."
+msgstr ""
+"You walk with an awkward gait, forever trailing behind.\n"
+"Эффект: -1 единица передвижения и невозможность бегать."
+#endregion
+
+#region Diseased
+msgid "diseased"
+msgstr "больной"
+
+msgid "female^diseased"
+msgstr "больная"
+
+msgid "Afflicted with a rare ailment, you are clouded by misery and pestilience. At the start of your turn there is a 15% chance you will be poisoned."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Diseased"
+msgstr "Больной"
+
+msgid ""
+"Afflicted with a rare ailment, your life is clouded by pestilience.\n"
+"Effect: Every turn there is a 15% chance you'll be poisoned."
+msgstr ""
+"Afflicted with a rare ailment, your life is clouded by pestilience.\n"
+"Эффект: На каждом ходу есть 15% шанс получить отравление."
+#endregion
+
+#region Stupid
+msgid "stupid"
+msgstr "глупый"
+
+msgid "female^stupid"
+msgstr "глупая"
+
+msgid "Ideas don't come easily to you, in fact you struggle with even the simplest of mental tasks."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Stupid"
+msgstr "Глупый"
+
+msgid ""
+"You struggle with even the simplest mental tasks.\n"
+"Effect: Your max XP is increased by 20%."
+msgstr ""
+"You struggle with even the simplest mental tasks.\n"
+"Эффект: Максимальный опыт увеличивается на 20%."
+#endregion
+
+#region Psycho
+msgid "psycho"
+msgstr "псих"
+
+msgid "female^psycho"
+msgstr "псих"
+
+msgid "A troubled childhood has left you prone to fits of self-destructive insanity. There is a 10% chance you will start bezerking whenever you make a melee attack."
+msgstr ""
+
+# Меню создания персонажа
+
+msgid "Psycho"
+msgstr "Псих"
+
+msgid ""
+"A troubled childhood has left you prone to fits of insanity.\n"
+"Effect: When you attack there's a 10% chance you'll go bezerk."
+msgstr ""
+"A troubled childhood has left you prone to fits of insanity.\n"
+"Эффект: При атаке 10% шанс впасть в состояние берсерка."
+#endregion
+
+
+#1 ********** Боевые стойки **********
+
+#region Normal
+msgid "Normal"
+msgstr "Обычная"
+
+# Описание для экрана выбора стойки
+msgid "No bonuses or penalties"
+msgstr "Без бонусов и штрафов"
+#endregion
+
+#region Attack
+msgid "Attack"
+msgstr "Атака"
+
+# Описание для экрана прокачки
+msgid "Allows you to adopt the attack stance."
+msgstr ""
+
+# Описание для экрана выбора стойки
+msgid ""
+"+2 melee damage\n"
+"-2 movement\n"
+"-10% defence"
+msgstr ""
+"+2 урона в ближнем бою\n"
+"-2 передвижения\n"
+"-10% защиты"
+#endregion
+
+#region Blitz
+msgid "Blitz"
+msgstr ""
+
+# Описание для экрана прокачки
+msgid "Allows you to adopt the blitz stance."
+msgstr ""
+
+# Описание для экрана выбора стойки
+msgid ""
+"+1 melee attacks\n"
+"-1 melee and ranged damage\n"
+"-10% chance to hit with melee weapon"
+msgstr ""
+"+1 ближняя атака\n"
+"-1 урон\n"
+"-10% шанс попасть в ближнем бою"
+#endregion
+
+#region Defend
+msgid "Defend"
+msgstr "Оборона"
+
+# Описание для экрана прокачки
+msgid "Allows you to adopt the defend stance."
+msgstr ""
+
+# Описание для экрана выбора стойки
+msgid ""
+"+20% to all resistances\n"
+"-2 melee and ranged damage\n"
+"-2 movement"
+msgstr ""
+"+20% ко всем сопротивлениям\n"
+"-2 урона\n"
+"-2 передвижения"
+#endregion
+
+#region Aim
+msgid "Aim"
+msgstr "Прицеливание"
+
+# Описание для экрана прокачки
+msgid "Allows you to adopt the aim stance."
+msgstr ""
+
+# Описание для экрана выбора стойки
+msgid ""
+"+10% chance to hit with ranged weapon\n"
+"+3 ranged damage\n"
+"-1 melee and ranged attacks"
+msgstr ""
+"+10% шанс попасть из стрелкового оружия\n"
+"+3 урона в дальнем бою\n"
+"-1 атака"
+#endregion
+
+#region Quickfire
+msgid "Quickfire"
+msgstr "Скорострельность"
+#* msgstr "Быстрая пальба"
+#* msgstr "Беглый огонь"
+
+# Описание для экрана прокачки
+msgid "Allows you to adopt the quickfire stance."
+msgstr ""
+
+# Описание для экрана выбора стойки
+msgid ""
+"+1 ranged attacks\n"
+"-2 melee and ranged damage\n"
+"-2 movement"
+msgstr ""
+"+1 дальняя атака\n"
+"-2 урона\n"
+"-2 передвижения"
+#endregion
+
+#region Dodge
+msgid "Dodge"
+msgstr "Уворот"
+
+# Описание для экрана прокачки
+msgid "Allows you to adopt the dodge stance."
+msgstr ""
+
+# Описание для экрана выбора стойки
+msgid ""
+"+10% defence\n"
+"-2 melee and ranged damage\n"
+"-1 movement"
+msgstr ""
+"+10% защиты\n"
+"-2 урона\n"
+"-1 передвижение"
+#endregion
+
+#region Run
+msgid "Run"
+msgstr "Бег"
+
+# Описание для экрана прокачки
+msgid "Allows you to adopt the run stance."
+msgstr ""
+
+# Описание для экрана выбора стойки
+msgid ""
+"+2 movement\n"
+"-2 melee and ranged damage\n"
+"-10% defence"
+msgstr ""
+"+2 передвижения\n"
+"-2 урона\n"
+"-10% защиты"
+#endregion
+
+
+#1 ********** Использование навыков **********
+
+#region Herbalism
+msgid "Herbalism allows you to use raw materials from your inventory to make medicinal balms and broths. The effects are instant."
+msgstr ""
+
+msgid "$character[$side_number].name has used Herbalism"
+msgstr ""
+#endregion
+
+#region Tamer
+msgid "Tamed"
+msgstr ""
+
+msgid "Wild"
+msgstr ""
+#endregion
+
+#region Pickpocket
+msgid "$character[$side_number].name tried to pickpocket $unit.name|, but their pockets were empty."
+msgstr ""
+
+msgid "Thief!"
+msgstr ""
+
+msgid "Don't try that again, you scoundrel!"
+msgstr ""
+
+msgid "Off with your fingers!"
+msgstr ""
+
+msgid "Be off with you, dirty pickpocket!"
+msgstr ""
+#endregion
+
+#region Trapper
+msgid "Set Trap"
+msgstr ""
+
+msgid "Trapper allows you to set traps on the ground. Traps remain in play unless they are triggered or a trapper picks them up. You cannot set more than one of the same trap on a hex. Remember, all units are affected by traps - even friendly ones."
+msgstr ""
+#endregion
+
+#region Concoction
+msgid "Concoction allows you to create potions by mixing two raw materials. Any potions you make will be added to your inventory."
+msgstr ""
+#endregion
+
+
+#1 ********** Предметы **********
+
+#2 ***** Оружие *****
+
+#region Sword
+msgid "Sword"
+msgstr "Меч"
+
+msgid "sword"
+msgstr "меч"
+
+msgid "Blade melee weapon"
+msgstr "Режущее оружие ближнего боя"
+
+msgid "A standard blade, forged of good iron. The typical sword is of medium length and width. A very utilitarian weapon designed to kill, not to impress."
+msgstr "Обычный меч, выкованный из качественного железа. Длина и ширина вполне стандартны. Функциональное оружие, служащее для убийства, а не выпендрёжа."
+#endregion
+
+#region Elven Sword
+msgid "Elven Sword"
+msgstr "Эльфийский меч"
+
+msgid "elven sword"
+msgstr "эльфийский меч"
+
+msgid "Longer and thinner than a human blade, this lightweight sword is swift and deadly. It is often replete with intricate designs engraved on both the blade and hilt."
+msgstr ""
+#endregion
+
+#region Sabre
+msgid "Sabre"
+msgstr "Сабля"
+
+msgid "saber"
+msgstr "сабля"
+
+msgid "While a regular sword is suitable enough for a competent swordsman, an expert vagabond uses a saber. Its light weight and curve allow for thrusts and cuts to be delivered with such speed that few opponents can hope to block them all."
+msgstr ""
+#endregion
+
+#region Spear
+msgid "Spear"
+msgstr "Копьё"
+
+msgid "spear"
+msgstr "копьё"
+
+msgid "Pierce melee weapon"
+msgstr ""
+
+msgid "The standard spear is a slender weapon consisting of a shaft, usually of wood, with a sharpened head. This is the perfect rank and file weapon of organized soldiers fighting in formation."
+msgstr ""
+#endregion
+
+#region Axe
+msgid "Axe"
+msgstr "Топор"
+
+msgid "axe"
+msgstr "топор"
+
+msgid "This tool-turned weapon has come a long way from its roots as a peasant's make-shift weapon. Embraced by the Dwarves particularly, these axes do much more than chop wood."
+msgstr ""
+#endregion
+
+#region Dagger
+msgid "Dagger"
+msgstr "Кинжал"
+
+msgid "dagger"
+msgstr "кинжал"
+
+msgid "A very large knife, this weapon offers both both speed and concealment. It is often used by those who desire to appear unarmed, or those too poor to afford a real sword."
+msgstr ""
+#endregion
+
+#region Mace
+msgid "Mace"
+msgstr "Булава"
+
+msgid "mace"
+msgstr "булава"
+
+msgid "Impact melee weapon"
+msgstr "Крушащее оружие ближнего боя"
+
+msgid "A simple weapon with a heavy head on a solid shaft used to bludgeon opponents. Requires little training."
+msgstr ""
+#endregion
+
+#region Staff
+msgid "Staff"
+msgstr "Посох"
+
+msgid "staff"
+msgstr "посох"
+
+msgid "The staff is effectively a long two-handed club. A simple weapon for those whose real powers lay elsewhere."
+msgstr ""
+#endregion
+
+#region Elven Staff
+msgid "Elven Staff"
+msgstr "Эльфийский посох"
+
+msgid "elven staff"
+msgstr "эльфийский посох"
+
+msgid "The elven staff may be made from many kinds of wood, commonly ash, oak, hazel, or hawthorn. It may have metal spikes or caps at one or both ends, coupled with decorative runes."
+msgstr ""
+#endregion
+
+#region Quarterstaff
+msgid "Quarterstaff"
+msgstr "Палица"
+
+msgid "quarterstaff"
+msgstr "палица"
+#* msgstr "дубина"
+
+msgid "More than a simple walking stick, a quarterstaff is well sanded and stained. A very simple weapon that requires very little training."
+msgstr ""
+#endregion
+
+#region Hammer
+msgid "Hammer"
+msgstr "Молот"
+
+msgid "hammer"
+msgstr "молот"
+
+msgid "A cumbersome yet potentially devastating weapon that owes its power to the sheer weight of its large stone head."
+msgstr ""
+#endregion
+
+#region Holy Sword
+msgid "Holy Sword"
+msgstr ""
+
+msgid "holy sword"
+msgstr ""
+
+msgid "Arcane melee weapon"
+msgstr ""
+
+msgid ""
+"This sword has been enchanted by mysterious arcane magic, many believe it to be Holy.\n \n"
+"Modifiers: None\n"
+"Damage Type: Arcane\n"
+"Specials: None"
+msgstr ""
+#endregion
+
+#region Salamander Blade
+msgid "Salamander Blade"
+msgstr ""
+
+msgid "salamander blade"
+msgstr ""
+
+msgid "Fire melee weapon: +3 damage"
+msgstr ""
+
+msgid ""
+"Forged in the fires of Draken, this enchanted blade radiates an immense heat.\n \n"
+"Modifiers: +3 damage\n"
+"Damage Type: Fire\n"
+"Specials: None"
+msgstr ""
+#endregion
+
+#region Slayer
+msgid "Slayer"
+msgstr ""
+
+msgid "slayer"
+msgstr ""
+
+msgid "Blade melee weapon: Dread, +1 damage"
+msgstr ""
+
+msgid ""
+"The Slayer proves that not all weapons are created with noble intentions. Forged in the dark of night, the blade was quenched in the terrified bodies of innocents. Their screaming faces were inscribed in the blade to harness the fear of those it had killed, so the blade would radiate a palpable aura of dread to afflict all who dared stand before it.\n\n"
+"Modifiers: +1 damage\n"
+"Damage Type: Blade\n"
+"Specials: Dread"
+msgstr ""
+#endregion
+
+#region Barbed Spear
+msgid "Barbed Spear"
+msgstr ""
+
+msgid "barbed spear"
+msgstr ""
+
+msgid "Pierce melee weapon: +2 damage"
+msgstr ""
+
+msgid ""
+"While most spears normally have slim and sharp blades at their tip, some will often have barbs affixed to their head. It makes removing the spear more difficult, but the barbs rip and tear at the enemy's flesh, causing fatal wounds.\n \n"
+"Modifiers: +2 damage\n"
+"Damage Type: Pierce\n"
+"Specials: None"
+msgstr ""
+#endregion
+
+#region Lance
+msgid "Lance"
+msgstr ""
+
+msgid "lance"
+msgstr ""
+
+msgid "Pierce melee weapon: Charge"
+msgstr ""
+
+msgid ""
+"A spear used for thrusting is referred to as a lance. While it can be used to thrust at surrounding enemies, the lance proves most deadly in a charge, when it strikes with the extra power of momentum.\n \n"
+"Modifiers: None\n"
+"Damage Type: Pierce\n"
+"Specials: Charge"
+msgstr ""
+#endregion
+
+#region Enchanted Spear
+msgid "Enchanted Spear"
+msgstr ""
+
+msgid "enchanted_spear"
+msgstr ""
+
+msgid "Pierce melee weapon: Magical"
+msgstr ""
+
+msgid ""
+"To hit with a spear, one must extend out in a quick thrust; a miss will often make the wielder pay for his error. To combat this danger, some spears are enchanted with magic to guide them into enemy flesh.\n \n"
+"Modifiers: None\n"
+"Damage Type: Pierce\n"
+"Specials: Magical"
+msgstr ""
+#endregion
+
+#region Battle Axe
+msgid "Battle Axe"
+msgstr "Боевой топор"
+
+msgid "battle axe"
+msgstr "боевой топор"
+
+msgid "Blade melee weapon: +2 damage"
+msgstr ""
+
+msgid ""
+"Much less utilitarian in appearance than a regular axe, a battle axe is designed solely for warfare. It possesses a lighter, narrower blade, suitable for the quick pace of combat and which cuts through limbs with ease.\n \n"
+"Modifiers: +2 damage\n"
+"Damage Type: Blade\n"
+"Specials: None"
+msgstr ""
+#endregion
+
+#region Thunder Axe
+msgid "Thunder Axe"
+msgstr "Громовой топор"
+
+msgid "thunder axe"
+msgstr "громовой топор"
+
+msgid "Blade melee weapon: Knockout, +1 damage"
+msgstr ""
+
+msgid ""
+"The Thunder Axe was forged by a Dwarven Runesmith, and the trapped potential of lightning dances across its surface. The runes glow white-hot with barely restrained power, and bolts of electricity arc from the axe blade to blast enemies into oblivion.\n \n"
+"Modifiers: +1 damage\n"
+"Damage Type: Blade\n"
+"Specials: Knockout"
+msgstr ""
+#endregion
+
+#region Ice Rod
+msgid "Ice Rod"
+msgstr "Ледяной жезл"
+
+msgid "ice rod"
+msgstr "ледяной жезл"
+
+msgid "Cold melee weapon: Magical, +2 damage"
+msgstr ""
+
+msgid ""
+"The Ice Rod of Asktoi was forged in the ice pools of the north, its shaft forever cold to the touch.\n \n"
+"Modifiers: +2 damage\n"
+"Damage Type: Cold\n"
+"Specials: Magical"
+msgstr ""
+#endregion
+
+#region Plague Staff
+msgid "Plague Staff"
+msgstr "Чумной посох"
+
+msgid "plague staff"
+msgstr "чумной посох"
+
+msgid "Impact melee weapon: Plague, -2 damage"
+msgstr ""
+
+msgid ""
+"Topped with macabre gargoyles, the Plague Staff is not so much a weapon as an instrument of torture - for whoever falls prey to its twisted magic is reborn in death.\n \n"
+"Modifiers: -2 damage\n"
+"Damage Type: Impact\n"
+"Specials: Plague"
+msgstr ""
+#endregion
+
+#region Nipper
+msgid "Nipper"
+msgstr ""
+
+msgid "nipper"
+msgstr ""
+
+msgid "Blade melee weapon: +1 attacks"
+msgstr ""
+
+msgid ""
+"Even among daggers, the Nipper is infamous for its swift nature. Striking so fast that is only a blur to the enemy, this dagger also sinks more easily in and out of flesh, thus always 'nipping' at its enemies.\n \n"
+"Modifiers: +1 attacks\n"
+"Damage Type: Blade\n"
+"Specials: None"
+msgstr ""
+#endregion
+
+#region Smasher
+msgid "Smasher"
+msgstr ""
+
+msgid "smasher"
+msgstr ""
+
+msgid "Impact melee weapon, Knockback, +2 damage"
+msgstr ""
+
+msgid ""
+"While a hammer may be used alone or with a shield, the sheer mass of a Smasher means that it can only be wielded effectively with two hands. Slower to hit than most weapons, the Smasher is imbued with a latent magic that causes it to hit with the force of a weapon ten times its size. Few enemies remain standing after such a blow, much less alive.\n \n"
+"Modifiers: +2 damage\n"
+"Damage Type: Impact\n"
+"Specials: Knockback"
+msgstr ""
+#endregion
+
+#region Bow
+msgid "Bow"
+msgstr "Лук"
+
+msgid "bow"
+msgstr "лук"
+
+msgid "Pierce ranged weapon"
+msgstr "Колющее оружие дальнего боя"
+
+msgid "The bow is used for hunting, and at times it is a weapon of war."
+msgstr ""
+#endregion
+
+#region Elven Bow
+msgid "Elven Bow"
+msgstr "Эльфийский лук"
+
+msgid "elven bow"
+msgstr "эльфийский лук"
+
+msgid "Elves prefer a more slender bow than most. It is generally faster but packs less punch."
+msgstr ""
+#endregion
+
+#region Javelin
+msgid "Javelin"
+msgstr ""
+
+msgid "javelin"
+msgstr ""
+
+msgid "A polearm used as a hand-hurled missile weapon, the javelin is a typical weapon for light infantry."
+msgstr ""
+#endregion
+
+#region Crossbow
+msgid "Crossbow"
+msgstr "Арбалет"
+
+msgid "crossbow"
+msgstr "арбалет"
+
+msgid "A bow mounted on a stock that shoots projectiles, the crossbow has both great power and accuracy."
+msgstr ""
+#endregion
+
+#region Hatchet
+msgid "Hatchet"
+msgstr "Топорик"
+
+msgid "hatchet"
+msgstr "топорик"
+
+msgid "Blade ranged weapon"
+msgstr "Режущее оружие дальнего боя"
+
+msgid "The hatchet is a single-handed axe with a sharp blade used to cut and split wood - or heads."
+msgstr ""
+#endregion
+
+#region Knife
+msgid "Knife"
+msgstr "Нож"
+
+msgid "knife"
+msgstr "нож"
+
+msgid "Most knives designed for throwing lack a formal handle, but are instead shaped from one piece of steel with no hilt."
+msgstr ""
+#endregion
+
+#region Sling
+msgid "Sling"
+msgstr "Праща"
+
+msgid "sling"
+msgstr "праща"
+
+msgid "Impact ranged weapon"
+msgstr ""
+
+msgid "A sling has a small pouch in the middle of two lengths of cord, used for hurling stones. It is very inexpensive, and easy to construct."
+msgstr ""
+#endregion
+
+#region Frost Bow
+msgid "Frost Bow"
+msgstr ""
+
+msgid "frost bow"
+msgstr ""
+
+msgid "Cold ranged weapon: +1 damage"
+msgstr ""
+
+msgid ""
+"While bearing a similar appearance to an ordinary bow, the surface of this bow is covered in ice crystals. Radiating an icy chill, arrows fired from this bow are quickly covered in ice, freezing any enemy unlucky enough to be struck by one.\n \n"
+"Modifiers: +1 damage\n"
+"Damage Type: Cold\n"
+"Specials: None"
+msgstr ""
+#endregion
+
+#region Fire Bow
+msgid "Fire Bow"
+msgstr "Огненный лук"
+
+msgid "fire bow"
+msgstr "огненный лук"
+
+msgid "Fire ranged weapon"
+msgstr "Огненное оружие дальнего боя"
+
+msgid ""
+"While bearing a similar appearance to an ordinary bow, there are miniature carvings in the surface of the wood detailing a roaring inferno. The magical effect of the artistry is apparent when an arrow is fired from the bow, as it bursts into flames as it speeds towards the target.\n \n"
+"Modifiers: None\n"
+"Damage Type: Fire\n"
+"Specials: None"
+msgstr ""
+#endregion
+
+#region Storm Bow
+msgid "Storm Bow"
+msgstr ""
+
+msgid "storm bow"
+msgstr ""
+
+msgid "Pierce ranged weapon: +3 damage"
+msgstr ""
+
+msgid ""
+"While bearing a similar appearance to an ordinary bow, this bow is covered with moving engravings that mimic a violent thunderstorm. Small traces of electricity wind around the wood and bowstring, and any enemy struck by arrows from this bow receive a massive jolt of electricity.\n \n"
+"Modifiers: +3 damage\n"
+"Damage Type: Pierce\n"
+"Specials: None"
+msgstr ""
+#endregion
+
+#region Tomahawk
+msgid "Tomahawk"
+msgstr "Томагавк"
+
+msgid "tomahawk"
+msgstr "томагавк"
+
+msgid "Blade ranged weapon: Sureflight, +1 damage"
+msgstr ""
+
+msgid ""
+"The Dwarves frequently employ small hand axes that they might throw in combat, and the Tomahawk is merely a version made with that purpose in mind. Still viable for day to day use, it is more balanced for throwing and made of sturdier materials.\n \n"
+"Modifiers: +1 damage\n"
+"Damage Type: Blade\n"
+"Specials: None"
+msgstr ""
+#endregion
+
+#region Feathered Javelin
+msgid "Feathered Javelin"
+msgstr ""
+
+msgid "feathered javelin"
+msgstr ""
+
+msgid "Pierce ranged weapon: Sureflight"
+msgstr ""
+
+msgid ""
+"Javelins are slim, light spears used as throwing weapons. While feathering a javelin has only a negligible effect on its flight, the psychological reassurance granted to the thrower has seen this javelin hit more consistently.\n \n"
+"Modifiers: None\n"
+"Damage Type: Pierce\n"
+"Specials: Sureflight"
+msgstr ""
+#endregion
+
+#region Heavy Crossbow
+msgid "Heavy Crossbow"
+msgstr "Тяжёлый арбалет"
+
+msgid "heavy crossbow"
+msgstr "тяжёлый арбалет"
+
+msgid ""
+"Firing the same bolts as a regular crossbow, the heavy crossbow is more effective because it uses larger, stronger bows and strings. While it may take longer to reload, the bolts pack a more considerable punch and will do more damage, even at a greater range.\n \n"
+"Modifiers: +3 damage\n"
+"Damage Type: Pierce\n"
+"Specials: None"
+msgstr ""
+#endregion
+
+#region Customised Sling
+msgid "Customised Sling"
+msgstr ""
+
+msgid "customised sling"
+msgstr ""
+
+msgid "Impact ranged weapon: +1 damage"
+msgstr ""
+
+msgid ""
+"Slings are a simple weapon, often a length of cord with a pouch in the center that can be used to launch everything from metal bullets to rocks from the ground. While there is not much room for craftsmanship on such a basic weapon, some are nevertheless customised to accomodate weightier projectiles.\n \n"
+"Modifiers: +1 damage\n"
+"Damage Type: Impact\n"
+"Specials: None"
+msgstr ""
+#endregion
+
+#2 ***** Зелья *****
+
+#region Health Potion
+msgid "Health Potion"
+msgstr ""
+
+msgid "Restores 6 hitpoints"
+msgstr "Восстанавливает 6 здоровья"
+
+msgid "$character[$side_number].name has drunk a health potion"
+msgstr ""
+#endregion
+
+#region Endurance Potion
+msgid "Endurance Potion"
+msgstr ""
+
+msgid "Restores 10 hitpoints and adds 1 max hitpoint"
+msgstr "Восстанавливает 10 ЖЗ, увеличивает максимум на 1"
+
+msgid "$character[$side_number].name has drunk an endurance potion"
+msgstr ""
+#endregion
+
+#region Stamina Potion
+msgid "Stamina Potion"
+msgstr "Зелье выносливости"
+
+msgid "Adds 3 max hitpoints"
+msgstr "Увеличивает максимальное здоровье на 3"
+
+msgid "$character[$side_number].name has drunk a stamina potion"
+msgstr "$character[$side_number].name выпил зелье выносливости."
+#endregion
+
+#region Life Potion
+msgid "Life Potion"
+msgstr "Живительный отвар"
+
+msgid "Restores 20 hitpoints"
+msgstr "Восстанавливает 20 здоровья"
+
+msgid "$character[$side_number].name has drunk a life potion"
+msgstr "$character[$side_number].name выпил живительный отвар."
+#endregion
+
+#region Brainhaste Tonic
+msgid "Brainhaste Tonic"
+msgstr ""
+
+msgid "Adds 4 experience"
+msgstr "Даёт 4 опыта"
+
+msgid "$character[$side_number].name has drunk some brainhaste tonic"
+msgstr ""
+#endregion
+
+#region Mind Juice
+msgid "Mind Juice"
+msgstr ""
+
+msgid "-3 max experience"
+msgstr ""
+
+msgid "$character[$side_number].name has drunk some mind juice"
+msgstr ""
+#endregion
+
+#region Antidote
+msgid "Antidote"
+msgstr "Противоядие"
+
+msgid "Cures poison"
+msgstr "Исцеляет от яда"
+
+msgid "$character[$side_number].name has drunk an antidote"
+msgstr "$character[$side_number].name выпил противоядие."
+#endregion
+
+#region Speed Serum
+msgid "Speed Serum"
+msgstr "Сыворотка скорости"
+
+msgid "Restores moves but poisons your metabolism"
+msgstr ""
+
+msgid "$character[$side_number].name has drunk some speed serum"
+msgstr ""
+#endregion
+
+#region Energy Cocktail
+msgid "Energy Cocktail"
+msgstr "Энергетический коктейль"
+
+msgid "Restores moves after next combat"
+msgstr ""
+
+msgid "$character[$side_number].name has drunk an energy cocktail"
+msgstr ""
+#endregion
+
+#region Bloodlust Bile
+msgid "Bloodlust Bile"
+msgstr ""
+
+msgid "You can attack twice"
+msgstr "Позволяет атаковать дважды"
+
+msgid "$character[$side_number].name has drunk some bloodlust bile"
+msgstr ""
+#endregion
+
+#region Frenzy Fluid
+msgid "Frenzy Fluid"
+msgstr ""
+
+msgid "Your next combat will last two rounds"
+msgstr ""
+
+msgid "$character[$side_number].name has drunk some frenzy fluid"
+msgstr ""
+#endregion
+
+#2 ***** Разное *****
+
+#region Walking Boots
+msgid "Walking Boots"
+msgstr ""
+
+msgid "+1 movement"
+msgstr "+1 передвижение"
+#endregion
+
+#region Elven Boots
+msgid "Elven Boots"
+msgstr ""
+
+msgid "+2 movement"
+msgstr ""
+#endregion
+
+#region Nim Boots
+msgid "Nim Boots"
+msgstr ""
+
+msgid "10% defence on flat terrain"
+msgstr ""
+#endregion
+
+#region Snow Shoes
+msgid "Snow Shoes"
+msgstr ""
+
+msgid "Reduces movement cost on snow and ice by 1, but reduces movement by 1"
+msgstr ""
+#endregion
+
+#region Magic Bean
+msgid "Magic Bean"
+msgstr ""
+
+msgid "Converts grassland to great tree"
+msgstr ""
+
+msgid "Converts grassland or savanna to great tree"
+msgstr ""
+#endregion
+
+#region Tent
+msgid "Tent"
+msgstr ""
+
+msgid "Creates temporary mini-village which heals +4HP each turn"
+msgstr ""
+#endregion
+
+#region Map
+msgid "Map"
+msgstr ""
+
+msgid "Removes shroud within 10 hexes"
+msgstr ""
+
+msgid "(Select to read)"
+msgstr ""
+
+msgid "$character[$side_number].name has studied a map of the local area"
+msgstr ""
+#endregion
+
+#region Suicide Bomb
+msgid "Suicide Bomb"
+msgstr ""
+
+msgid "Inflicts 10 damage on all adjacent units, including yourself"
+msgstr ""
+
+msgid "(Select to detonate)"
+msgstr ""
+
+msgid "$character[$side_number].name has detonated a suicide bomb"
+msgstr ""
+#endregion
+
+#region Tongue Of Mockery
+msgid "Tongue Of Mockery"
+msgstr ""
+
+msgid "Sends all adjacent units into a mini-berserk frenzy"
+msgstr ""
+
+msgid "(Select to unleash the mockery)"
+msgstr ""
+
+msgid "$character[$side_number].name has unleashed the tongue of mockery"
+msgstr ""
+#endregion
+
+#region Unlit Lantern
+msgid "Unlit Lantern"
+msgstr ""
+
+msgid "Gives the brightens ability: 10% lawful TOD bonus"
+msgstr ""
+
+msgid "(select to light)"
+msgstr ""
+
+msgid "$character[$side_number].name has lit a lantern"
+msgstr ""
+#endregion
+
+#region Lit Lantern
+msgid "Lit Lantern"
+msgstr ""
+
+# Описание см. в Unlit Lantern
+
+msgid "(select to extinguish)"
+msgstr ""
+
+msgid "$character[$side_number].name has extinguished their lantern"
+msgstr ""
+#endregion
+
+#2 ***** Сырье *****
+
+msgid "Clay"
+msgstr "Глина"
+
+msgid "Slime"
+msgstr "Слизь"
+
+msgid "Gold Nugget"
+msgstr "Золотой самородок"
+
+msgid "Ulox Rock"
+msgstr ""
+
+msgid "Huanti Leaves"
+msgstr ""
+
+msgid "Yoll Tree Bark"
+msgstr ""
+
+msgid "Fang"
+msgstr "Клык"
+
+msgid "Fungi"
+msgstr "Грибы"
+
+msgid "Skull"
+msgstr "Череб"
+
+msgid "Lizard Tail"
+msgstr "Хвост ящерицы"
+#* msgstr "Хвост ящера"
+
+msgid "Scorpion Tail"
+msgstr "Хвост скорпиона"
+
+msgid "Dragon Tail"
+msgstr "Хвост дракона"
+
+#region Описание
+# Gold Nugget
+msgid "Raw material used in concoction"
+msgstr ""
+
+# Clay, Skull, Lizard Tail
+msgid "Raw material used in conjuring"
+msgstr ""
+
+# Huanti Leaves, Fungi
+msgid "Raw material used in concoction and herbalism"
+msgstr ""
+
+# Fang, Dragon Tail
+msgid "Raw material used in concoction, conjuring and herbalism"
+msgstr ""
+
+# Slime
+msgid "Raw material used in concoction, conjuring, herbalism and weaponcraft"
+msgstr ""
+
+# Ulox Rock
+msgid "Raw material used in concoction, herbalism, traps and weaponcraft"
+msgstr ""
+
+# Yoll Tree Bark
+msgid "Raw material used in concoction, conjuring, traps and herbalism"
+msgstr ""
+
+# Scorpion Tail
+msgid "Raw material used in concoction, conjuring, traps, herbalism and weaponcraft"
+msgstr ""
+#endregion
+
+#2 ***** Кольца *****
+
+#region Ring of Swiftness
+msgid "Ring of Swiftness"
+msgstr "Кольцо стремительности"
+
+#+ msgid "+1 movement"
+#endregion
+
+#region Fire Ring
+msgid "Fire Ring"
+msgstr "Кольцо огня"
+
+msgid "+20% fire resistance"
+msgstr "+20% сопротивления огню"
+#endregion
+
+#region Water Ring
+msgid "Water Ring"
+msgstr "Кольцо воды"
+
+msgid "+20% cold resistance"
+msgstr "+20% сопротивления холоду"
+#endregion
+
+#region Sky Ring
+msgid "Sky Ring"
+msgstr "Небесное кольцо"
+
+msgid "+20% arcane resistance"
+msgstr "+20% сопротивления мистическим атакам"
+#endregion
+
+#region Earth Ring
+msgid "Earth Ring"
+msgstr "Кольцо земли"
+
+msgid "+20% impact resistance"
+msgstr "+20% сопротивления крушащим атакам"
+#endregion
+
+#region Gold Ring
+msgid "Gold Ring"
+msgstr "Золотое кольцо"
+
+msgid "No special properties"
+msgstr "Не имеет особых свойств"
+#endregion
+
+#2 ***** Ловушки *****
+
+msgid "Bomb"
+msgstr "Бомба"
+
+msgid "A trap that does 12 hitpoints of damage when stepped on"
+msgstr ""
+
+msgid "Poison"
+msgstr "Яд"
+
+msgid "A trap that poisons when stepped on"
+msgstr ""
+
+msgid "Net"
+msgstr "Сеть"
+
+msgid "A trap that slows when stepped on"
+msgstr ""
+
+
+#1 ********** Магазин **********
+
+msgid "What will you buy?"
+msgstr "Что хотите приобрести?"
+
+msgid "shop^Cost: "
+msgstr "Цена: "
+
+msgid " (Requires Swordsmanship)"
+msgstr " (требуется владение мечом)"
+
+msgid " (Requires Axe Wielding)"
+msgstr " (требуется владение топором)"
+
+msgid " (Requires Spearmanship)"
+msgstr " (требуется владение копьём)"
+
+msgid " (Requires Staff Wielding)"
+msgstr ""
+
+msgid " (Requires Mace Wielding)"
+msgstr " (требуется владение булавой)"
+
+msgid " (Requires Daggerplay)"
+msgstr " (требуется владение кинжалом)"
+
+msgid " (Requires Bowmanship)"
+msgstr " (требуется владение луком)"
+
+msgid " (Requires Crossbowmanship)"
+msgstr " (требуется владение арбалетом)"
+
+msgid " (Requires Slingmanship)"
+msgstr " (требуется владение пращой)"
+
+msgid " (Requires Hatcheteering)"
+msgstr ""
+
+msgid " (Requires Javelineering)"
+msgstr ""
+
+
 #1 ********** Контекстное меню **********
 
-msgid "Create Character"
+msgid "menu^Create Character"
 msgstr "Создать персонажа"
 
-msgid "Character Sheet"
+msgid "menu^Character Sheet"
 msgstr "Экран персонажа"
 
-msgid "Inventory"
+msgid "menu^Inventory"
 msgstr "Инвентарь"
 
-msgid "Stances"
+msgid "menu^Stances"
 msgstr "Стойка"
 
-msgid "Use Weaponcraft"
+msgid "menu^Give"
+msgstr "Отдать вещь"
+
+#region Навыки
+msgid "menu^Use Weaponcraft"
 msgstr "Кузнечное дело"
 
-msgid "Use Herbalism"
+msgid "menu^Rouse"
+msgstr ""
+
+msgid "menu^Mount"
+msgstr ""
+
+msgid "menu^Dismount"
+msgstr ""
+
+msgid "menu^Use Herbalism"
 msgstr "Травничество"
+
+msgid "menu^Tame"
+msgstr "Приручить"
+
+msgid "menu^Pickpocket"
+msgstr "Воровство"
+
+msgid "menu^Make Trap"
+msgstr "Сделать ловушку"
+
+msgid "menu^Set Trap"
+msgstr "Установить ловушку"
+
+msgid "menu^Use Concoction"
+msgstr ""
+
+msgid "menu^Conjure"
+msgstr ""
+#endregion
 
 
 #2 ***** Создание персонажа *****
@@ -83,47 +1866,504 @@ msgid "Choose a defect for your character."
 msgstr "Выберите недостаток, которым будет обладать ваш персонаж."
 
 
-#2 *** Экран персонажа ***
+#2 ***** Экран персонажа *****
+
+msgid "Character Sheet"
+msgstr "Экран персонажа"
+
+#region Информация
+msgid "Class:"
+msgstr "Класс:"
 
 msgid ""
-"<span color='{BOB_GREEN}'>Class:</span>\n"
 "$character[$side_number].warrior_level_number|/4 $character[$side_number].warrior_level_name Warrior\n"
 "$character[$side_number].ranger_level_number|/4 $character[$side_number].ranger_level_name Ranger\n"
 "$character[$side_number].vagabond_level_number|/4 $character[$side_number].vagabond_level_name Vagabond\n"
 "$character[$side_number].magician_level_number|/4 $character[$side_number].magician_level_name Magician\n"
-" \n"
-"<span color='{BOB_GREEN}'>Weapon Skills:</span>\n"
+msgstr ""
+
+msgid "Weapon Skills:"
+msgstr "Боевые навыки:"
+
+msgid ""
 "Melee: $character[$side_number].melee_weapon_skill\n"
 "Ranged: $character[$side_number].ranged_weapon_skill\n"
 "Critical Hit Chance: $unit.variables.critical_chance|%"
 msgstr ""
-"<span color='{BOB_GREEN}'>Класс:</span>\n"
-"$character[$side_number].warrior_level_number|/4 $character[$side_number].warrior_level_name Warrior\n"
-"$character[$side_number].ranger_level_number|/4 $character[$side_number].ranger_level_name Ranger\n"
-"$character[$side_number].vagabond_level_number|/4 $character[$side_number].vagabond_level_name Vagabond\n"
-"$character[$side_number].magician_level_number|/4 $character[$side_number].magician_level_name Magician\n"
-" \n"
-"<span color='{BOB_GREEN}'>Боевые навыки:</span>\n"
-"Контактные: $character[$side_number].melee_weapon_skill\n"
-"Дальнобойные: $character[$side_number].ranged_weapon_skill\n"
+"Ближний бой: $character[$side_number].melee_weapon_skill\n"
+"Дальний бой: $character[$side_number].ranged_weapon_skill\n"
 "Шанс критического удара: $unit.variables.critical_chance|%"
+#endregion
 
+msgid "sheet^Improve Character"
+msgstr "Улучшение персонажа"
+#* msgstr "Улучшить персонажа"
+#* msgstr "Развитие персонажа"
 
-msgid "list^Improve Character"
-msgstr "Улучшить персонажа"
+msgid "Character Points: $character[$side_number].character_points"
+msgstr "Очки персонажа: $character[$side_number].character_points"
 
-msgid "list^Inventory"
+msgid "sheet^Inventory"
 msgstr "Инвентарь"
 
-msgid "list^Change Stance"
+msgid "sheet^Change Stance"
 msgstr "Смена стойки"
 
-msgid "list^Talk In Character"
+msgid "sheet^Talk In Character"
 msgstr "Разговор"
 
-msgid "list^Help"
+msgid "sheet^Help"
 msgstr "Справка"
 
+
+#3 *** Улучшение персонажа ***
+
+msgid "Improve Character"
+msgstr "Улучшение персонажа"
+
+msgid "You have $character[$side_number].character_points character points to spend."
+msgstr "Вы можете потратить $character[$side_number].character_points очков."
+
+#4 ** Классы **
+
+msgid "CLASSES"
+msgstr "КЛАССЫ"
+
+#region Воин
+msgid "Advance To Novice Warrior"
+msgstr ""
+
+msgid "Allows: Power, Stamina, React."
+msgstr ""
+
+msgid "Advance To Experienced Warrior"
+msgstr ""
+
+msgid "Allows: Power, Stamina, Robust, Inspire, Deft, Attack."
+msgstr ""
+
+msgid "Advance To Veteran Warrior"
+msgstr ""
+
+msgid "Allows: Power, Stamina, Leadership, Tough, Lead, Counter, Blitz."
+msgstr ""
+
+msgid "Advance To Master Warrior"
+msgstr ""
+
+msgid "Allows: Power, Stamina, Mentor, Marksman, Defend."
+msgstr ""
+#endregion
+
+#region Следопыт
+msgid "Advance To Novice Ranger"
+msgstr ""
+
+msgid "Allows: Accuracy, Hillsmanship, Woodsmanship, React."
+msgstr ""
+
+msgid "Advance To Experienced Ranger"
+msgstr ""
+
+msgid "Allows: Accuracy, Desert and Snow Trekking, Loner, Deft, Firststrike, Aim."
+msgstr ""
+
+msgid "Advance To Veteran Ranger"
+msgstr ""
+
+msgid "Allows: Accuracy, Mountaineering, Swimming, Maverick, Counter, Quickfire."
+msgstr ""
+
+msgid "Advance To Master Ranger"
+msgstr ""
+
+msgid "Allows: Accuracy, Potholing, Marksman."
+msgstr ""
+#endregion
+
+#region Бродяга
+msgid "Advance To Novice Vagabond"
+msgstr ""
+
+msgid "Allows: Speed, Firststrike."
+msgstr ""
+
+msgid "Advance To Experienced Vagabond"
+msgstr ""
+
+msgid "Allows: Speed, Conceal, Backstab, Dodge."
+msgstr ""
+
+msgid "Advance To Veteran Vagabond"
+msgstr ""
+
+msgid "Allows: Speed, Hide, Distract."
+msgstr ""
+
+msgid "Advance To Master Vagabond"
+msgstr ""
+
+msgid "Allows: Power, Speed, Stealth, Skirmish, Surprise."
+msgstr ""
+#endregion
+
+#region Маг
+msgid "Advance To Novice Magician"
+msgstr ""
+
+msgid "Allows: Wisdom, Heals."
+msgstr ""
+
+msgid "Advance To Experienced Magician"
+msgstr ""
+
+msgid "Allows: Wisdom, Heals, Scare."
+msgstr ""
+
+msgid "Advance To Veteran Magician"
+msgstr ""
+
+msgid "Allows: Wisdom, Heals, Terrify, Blessed."
+msgstr ""
+
+msgid "Advance To Master Magician"
+msgstr ""
+
+msgid "Allows: Accuracy, Wisdom, Heals, Illuminates/Darkens."
+msgstr ""
+#endregion
+
+#4 ** Перки **
+
+msgid "Power"
+msgstr "Сила"
+
+msgid "Gives you +1 damage to your melee attack."
+msgstr "Увеличивает урон в ближнем бою на 1."
+
+msgid "Gives you +2 damage to your melee attack."
+msgstr "Увеличивает урон в ближнем бою на 2."
+
+msgid "Gives you +3 damage to your melee attack."
+msgstr "Увеличивает урон в ближнем бою на 3."
+
+msgid "Accuracy"
+msgstr "Точность"
+
+msgid "Gives you +1 damage to your ranged attack."
+msgstr "Увеличивает урон в дальнем бою на 1."
+
+msgid "Gives you +2 damage to your ranged attack."
+msgstr "Увеличивает урон в дальнем бою на 2."
+
+msgid "Gives you +3 damage to your ranged attack."
+msgstr "Увеличивает урон в дальнем бою на 3."
+
+msgid "Gives you +6 damage to your ranged attack."
+msgstr "Увеличивает урон в дальнем бою на 6."
+
+msgid "Stamina"
+msgstr "Выносливость"
+
+msgid "+4 max hitpoints."
+msgstr "Увеличивает максимальное здоровье на 4."
+
+msgid "Speed"
+msgstr "Скорость"
+
+msgid "+1 movement."
+msgstr "Увеличивает единицы передвижения на 1."
+
+msgid "Wisdom"
+msgstr "Мудрость"
+
+msgid "-3 max experience."
+msgstr ""
+
+msgid "Luck"
+msgstr "Удача"
+
+msgid "Increases the chance of scoring a critical hit by 1%."
+msgstr "Повышает шанс критического удара на 1%."
+
+msgid "Hillsmanship"
+msgstr ""
+
+msgid "Reduces movement cost on hills to 1."
+msgstr "Снижает стоимость передвижения по холмам до 1."
+
+msgid "Woodsmanship"
+msgstr ""
+
+msgid "Reduces movement cost in forests to 1."
+msgstr "Снижает стоимость передвижения по лесам до 1."
+
+msgid "Desert Trekking"
+msgstr ""
+
+msgid "Reduces movement cost on sand to 1."
+msgstr "Снижает стоимость передвижения по песку до 1."
+
+msgid "Snow Trekking"
+msgstr ""
+
+msgid "Reduces movement cost on snow and ice to 1."
+msgstr "Снижает стоимость передвижения по снегу и льду до 1."
+
+msgid "Swimming"
+msgstr ""
+
+msgid "Reduces movement cost in shallow water and swamp to 1."
+msgstr "Снижает стоимость передвижения по мелководью и болоту до 1."
+
+msgid "Mountaineering"
+msgstr ""
+
+msgid "Reduces movement cost in mountains to 1."
+msgstr "Снижает стоимость передвижения по горам до 1."
+
+msgid "Potholing"
+msgstr ""
+
+msgid "Reduces movement cost in caves to 1."
+msgstr "Снижает стоимость передвижения по пещерам до 1."
+
+#4 ** Способности **
+
+msgid "ABILITIES"
+msgstr "СПОСОБНОСТИ"
+
+msgid "Robust"
+msgstr ""
+
+msgid "+10% to resistances when defending."
+msgstr "+10% сопротивления при защите."
+
+msgid "Tough"
+msgstr ""
+
+msgid "+20% to resistances when defending."
+msgstr "+20% сопротивления при защите."
+
+msgid "Inspire"
+msgstr "Вдохновитель"
+#* msgstr "Вдохновление"
+
+msgid "Lead"
+msgstr "Лидер"
+#* msgstr "Лидерство"
+
+msgid "Adjacent allied units fight better."
+msgstr "Стоящие рядом союзники лучше сражаются."
+
+msgid "Mentor"
+msgstr "Наставник"
+
+msgid "Adjacent allied units gain experience whenever you make a kill."
+msgstr "Когда вы убиваете врагов, рядом стоящие союзники получают опыт."
+
+msgid "Loner"
+msgstr "Одиночка"
+
+msgid "You do +10% attacking damage when not adjacent to an ally."
+msgstr ""
+
+msgid "Maverick"
+msgstr ""
+
+msgid "You do +20% attacking damage when not adjacent to an ally."
+msgstr ""
+
+msgid "Conceal"
+msgstr "Скрытность"
+
+msgid "Allows you to hide in villages, undetected by enemies."
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "Allows you to hide in forests and villages, undetected by enemies."
+msgstr ""
+
+msgid "Stealth"
+msgstr ""
+
+msgid "Allows you to hide in any terrain at night."
+msgstr ""
+
+msgid "Distract"
+msgstr "Отвлечение"
+
+msgid "Negates Zones of Control for allies."
+msgstr "Позволяет союзникам проходить через вражеские зоны контроля."
+
+msgid "Skirmish"
+msgstr "Неуловимость"
+
+msgid "Allows you to ignore all enemy Zones of Control."
+msgstr "Позволяет вам игнорировать вражеские зоны контроля."
+
+msgid "Scare"
+msgstr ""
+
+msgid "Terrify"
+msgstr ""
+
+msgid "Adjacent enemy units fight worse."
+msgstr ""
+
+msgid "Illuminates"
+msgstr ""
+
+msgid "Adjacent lawful units fight better, chaotic units fight worse."
+msgstr ""
+
+msgid "Darkens"
+msgstr ""
+
+msgid "Adjacent chaotic units fight better, lawful units fight worse."
+msgstr ""
+
+msgid "Blessed"
+msgstr ""
+
+msgid "You are automatically healed by 4 HP per turn."
+msgstr ""
+
+msgid "Heals +2"
+msgstr "Лечение +2"
+
+msgid "Grants you the power to heal adjacent units 2 HP per turn."
+msgstr ""
+
+msgid "Heals +4"
+msgstr "Лечение +4"
+
+msgid "Grants you the power to heal adjacent units 4 HP per turn."
+msgstr ""
+
+msgid "Heals +6"
+msgstr "Лечение +6"
+
+msgid "Grants you the power to cure and heal adjacent units 6 HP per turn."
+msgstr ""
+
+msgid "Heals +8"
+msgstr "Лечение +8"
+
+msgid "Grants you the power to cure and heal adjacent units 8 HP per turn."
+msgstr ""
+
+msgid "Heals +10"
+msgstr "Лечение +10"
+
+msgid "Grants you the power to cure and heal adjacent units 10 HP per turn."
+msgstr ""
+
+msgid "Heals +12"
+msgstr "Лечение +12"
+
+msgid "Grants you the power to cure and heal adjacent units 12 HP per turn."
+msgstr ""
+
+#4 ** Особые атаки **
+
+msgid "WEAPON SPECIALS"
+msgstr "ОСОБЫЕ АТАКИ"
+
+msgid "React"
+msgstr ""
+
+msgid "Your melee attack has at least a 50% cth when defending."
+msgstr ""
+
+msgid "Your ranged attack has at least a 50% cth when defending."
+msgstr ""
+
+msgid "Counter"
+msgstr ""
+
+msgid "Your melee attack has at least a 60% chance to hit when defending."
+msgstr ""
+
+msgid "Your ranged attack has at least a 60% cth when defending."
+msgstr ""
+
+msgid "Deft"
+msgstr ""
+
+msgid "Your melee attack has at least a 50% cth when attacking."
+msgstr ""
+
+msgid "Your ranged attack has at least a 50% cth when attacking."
+msgstr ""
+
+msgid "Marksman"
+msgstr ""
+
+msgid "Your melee attack has at least a 60% cth when attacking."
+msgstr ""
+
+msgid "Your ranged attack has at least a 60% cth when attacking."
+msgstr ""
+
+msgid "Firststrike"
+msgstr "Первый удар"
+
+msgid "Your melee attack always strikes first when defending."
+msgstr ""
+
+msgid "Your ranged attack always strikes first when defending."
+msgstr ""
+
+msgid "Backstab"
+msgstr "Удар в спину"
+
+msgid "Doubles melee damage if an ally is behind the target."
+msgstr ""
+
+msgid "Surprise"
+msgstr "Сюрприз"
+
+msgid "When an enemy moves next to you, it is automatically hit with a melee strike."
+msgstr ""
+
+#4 ** Боевые стойки **
+
+msgid "COMBAT STANCES"
+msgstr "БОЕВЫЕ СТОЙКИ"
+
+# Сами стойки смотрите в отдельном разделе.
+
+#4 ** Общее **
+
+msgid "Cost: 1"
+msgstr "Стоимость: 1"
+
+msgid "Cost: 2"
+msgstr "Стоимость: 2"
+
+msgid "Cost: 3"
+msgstr "Стоимость: 3"
+
+msgid "Cost: 4"
+msgstr "Стоимость: 4"
+
+msgid "Cost: 5"
+msgstr "Стоимость: 5"
+
+msgid "Cost: 6"
+msgstr "Стоимость: 6"
+
+msgid "Cost: 7"
+msgstr "Стоимость: 7"
+
+msgid "Cost: 8"
+msgstr "Стоимость: 8"
+
+msgid "Cost: 9"
+msgstr "Стоимость: 9"
 
 #3 *** Разговор ***
 
@@ -250,411 +2490,193 @@ msgstr "Справка по Bob's RPG Era"
 msgid "Select a topic."
 msgstr "Выберите статью."
 
+#region Класс персонажа
 msgid "help^Character Class"
 msgstr "Класс персонажа"
 
+msgid ""
+"\n<span size='small'>- There are four character classes: Warrior, Ranger, Vagabond, Magician.\n"
+"- Your initial choice of class determines certain stats like hitpoints, moves and max xp.\n"
+"- Within each class there are five levels: Layman, Novice, Experienced, Veteran, Master.\n"
+"- You begin as Experienced in your primary class, and a Layman in all others (except for Mixed Class units, which begin as Novices in two classes).\n"
+"- Despite this initial choice, a character can progress, at a cost, in other classes.\n"
+"- You gain 10 character points every time your unit AMLAs. These can be used to improve your character or advance a class level.\n"
+"- Advancing class doesn't affect stats in any way, it simply allows a new set of options.\n"
+"- For any character to boost melee/ranged damage they must advance in Warrior/Ranger class level.</span>"
+msgstr ""
+"\n<span size='small'>- В эре доступно 4 игровых класса: воин, следопыт, бродяга и маг.\n"
+"- Your initial choice of class determines certain stats like hitpoints, moves and max xp.\n"
+"- Within each class there are five levels: Layman, Novice, Experienced, Veteran, Master.\n"
+"- You begin as Experienced in your primary class, and a Layman in all others (except for Mixed Class units, which begin as Novices in two classes).\n"
+"- Despite this initial choice, a character can progress, at a cost, in other classes.\n"
+"- You gain 10 character points every time your unit AMLAs. These can be used to improve your character or advance a class level.\n"
+"- Advancing class doesn't affect stats in any way, it simply allows a new set of options.\n"
+"- For any character to boost melee/ranged damage they must advance in Warrior/Ranger class level.</span>"
+#endregion
+
+#region Раса персонажа
 msgid "help^Race"
 msgstr "Раса персонажа"
 
+msgid ""
+"\n<span size='small'>- The race of your character determines your resistances and movetype.\n"
+"- Humans have smallfoot movetype and +20% arcane resistance.\n"
+"- Elves have -3 HP, woodland movetype and -10% arcane resistance.\n"
+"- Dwarves have +3 HP, -1 movement and +20% blade/pierce/impact resistance and +10% fire/arcane/cold resistance.\n"
+"- The exception is the vagabonds, who are all elusivefoots. Only humans can be vagabonds.</span>"
+msgstr ""
+"\n<span size='small'>- Раса персонажа определяет его сопротивляемости и тип передвижения.\n"
+"- У людей smallfoot movetype и +20% сопротивления мистике.\n"
+"- У эльфов -3 ЗД, лесной тип передвижения и -10% сопротивления мистике.\n"
+"- У гномов +3 ЗД, -1 очко движения, +20% сопротивления режущим, колющим и дробящим атакам, +10% сопротивления огню, холоду и мистике.\n"
+"- The exception is the vagabonds, who are all elusivefoots. Бродягами могут быть только люди.</span>"
+#endregion
+
+#region Боевые стойки
 msgid "help^Stances"
 msgstr "Боевые стойки"
 
+msgid ""
+"\n<span size='small'>- Stances add temporary bonuses and penalties which are reversed when the stance is changed.\n"
+"- They allow unit's stats to be altered to suit the situation - and preference of the player.\n"
+"- Your current stance is displayed with an icon overlayed on the unit.</span>"
+msgstr ""
+"\n<span size='small'>- Stances add temporary bonuses and penalties which are reversed when the stance is changed.\n"
+"- They allow unit's stats to be altered to suit the situation - and preference of the player.\n"
+"- Текущая стойка отображается небольшим значком над бойцом.</span>"
+#endregion
+
+#region Инвентарь
 msgid "help^Inventory"
 msgstr "Инвентарь"
 
+msgid ""
+"\n<span size='small'>- Certain items in the inventory have one use (click on a potion, for instance, and you drink it).\n"
+"- Characters can only use different weapons if they have the relevant weapon skill (for example, bowmanship allows you to use various types of bows).\n"
+"- Click on your current weapon at the top of your inventory to equip a new weapon.\n"
+"- You can also give items and gold to another player by right-clicking on them when you are in an adjacent hex.\n"
+"- When a character dies, all their stuff gets dumped on the ground allowing other players to pick it up.\n"
+"- However, items and weapons in use at the time of death are assumed to be either destroyed or stolen (or perhaps buried in a ritualistic fashion with the corpse).</span>"
+msgstr ""
+"\n<span size='small'>- Certain items in the inventory have one use (click on a potion, for instance, and you drink it).\n"
+"- Characters can only use different weapons if they have the relevant weapon skill (for example, bowmanship allows you to use various types of bows).\n"
+"- Click on your current weapon at the top of your inventory to equip a new weapon.\n"
+"- You can also give items and gold to another player by right-clicking on them when you are in an adjacent hex.\n"
+"- When a character dies, all their stuff gets dumped on the ground allowing other players to pick it up.\n"
+"- However, items and weapons in use at the time of death are assumed to be either destroyed or stolen (or perhaps buried in a ritualistic fashion with the corpse).</span>"
+#endregion
+
+#region Критические удары
 msgid "help^Critical Hits"
 msgstr "Критические удары"
+
+msgid ""
+"\n<span size='small'>- Every time a unit attacks offensively there is a chance they will score a critical hit on their opponent."
+"- The chance of scoring a critical hit is determined by the unit level of the attacker, but it can be boosted with character points and items.\n"
+"- A character's critical hit chance is displayed in the character sheet, along with their weapon skills.\n"
+"- When an attacker gets lucky the target will suffer a random critical hit. A unit cannot have the same critical hit twice.\n"
+"- There are four types of critical hits: maimed (-1 strike), blinded (-10% chance to hit), crippled (-2 movement), brained (-1xp per turn).\n"
+"- A critical hit is healed when the unit starts a new turn with full health.</span>"
+msgstr ""
+"\n<span size='small'>- Every time a unit attacks offensively there is a chance they will score a critical hit on their opponent."
+"- The chance of scoring a critical hit is determined by the unit level of the attacker, but it can be boosted with character points and items.\n"
+"- A character's critical hit chance is displayed in the character sheet, along with their weapon skills.\n"
+"- When an attacker gets lucky the target will suffer a random critical hit. A unit cannot have the same critical hit twice.\n"
+"- There are four types of critical hits: maimed (-1 strike), blinded (-10% chance to hit), crippled (-2 movement), brained (-1xp per turn).\n"
+"- A critical hit is healed when the unit starts a new turn with full health.</span>"
+#endregion
+
+msgid "Return To Help Menu"
+msgstr "Вернуться в меню справки"
+
+
+#2 ***** Инвентарь *****
+
+msgid "Inventory"
+msgstr "Инвентарь"
+
+msgid "Current Melee Weapon: $character[$side_number].melee_weapon_name"
+msgstr "Оружие ближнего боя: $character[$side_number].melee_weapon_name"
+
+msgid "Current Ranged Weapon: $character[$side_number].ranged_weapon_name"
+msgstr "Оружие дальнего боя: $character[$side_number].ranged_weapon_name"
+
+msgid "(select to change weapon)"
+msgstr "(сменить оружие)"
+
+msgid "(select to examine)"
+msgstr "(изучить доспех)"
+
+msgid "Return To Inventory"
+msgstr "Вернуться в инвентарь"
+
+
+#2 ***** Выбор стойки *****
+
+msgid "Stances"
+msgstr "Выбор стойки"
+
+msgid ""
+"Stances add temporary bonuses and penalties which are reversed when the stance is changed.\n \n"
+"Your current stance is: $character[$side_number].current_stance"
+msgstr ""
+"Stances add temporary bonuses and penalties which are reversed when the stance is changed.\n \n"
+"Ваша текущая стойка: $character[$side_number].current_stance"
+
+msgid "$character[$side_number].name has adopted the $character[$side_number].current_stance stance"
+msgstr "$character[$side_number].name перешёл в стойку $character[$side_number].current_stance|."
+
+msgid "female^$character[$side_number].name has adopted the $character[$side_number].current_stance stance"
+msgstr "$character[$side_number].name перешла в стойку $character[$side_number].current_stance|."
+
+
+#2 ***** Передача вещей *****
+
+msgid "Giving"
+msgstr "Передача вещей"
+
+msgid "What will you give to $character[$unit.side].name|?"
+msgstr "Что вы хотите отдать игроку $character[$unit.side].name|?"
+
+msgid "give^Gold"
+msgstr "Золото"
+
+msgid "Giving Gold"
+msgstr "Передача золота"
+
+msgid ""
+"How much gold will you give to $character[$unit.side].name|?\n \n"
+"You have: $giver.gold|g\n"
+"$character[$unit.side].name has: $taker.gold|g"
+msgstr ""
+"Сколько золота вы дадите игроку $character[$unit.side].name|?\n \n"
+"У вас: $giver.gold|з\n"
+"У него: $taker.gold|з"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Give 1g"
+msgstr "Дать 1 золотой"
+
+msgid "$character[$side_number].name has given $character[$unit.side].name 1 gold piece"
+msgstr "$character[$side_number].name дал 1 золотой $character[$unit.side].name|."
+
+msgid "Give 10g"
+msgstr "Дать 10 золотых"
+
+msgid "$character[$side_number].name has given $character[$unit.side].name 10 gold pieces"
+msgstr "$character[$side_number].name дал 10 золотых $character[$unit.side].name|."
+
+msgid "Give 50g"
+msgstr "Дать 50 золотых"
+
+msgid "$character[$side_number].name has given $character[$unit.side].name 50 gold pieces"
+msgstr "$character[$side_number].name дал 50 золотых $character[$unit.side].name|."
 
 
 #2 ***** Общее *****
 
 msgid "Return To Game"
 msgstr "Вернуться в игру"
-
-
-#1 ********** Таланты **********
-
-#region Weaponcraft
-msgid "weaponcraft"
-msgstr "кузнец"
-
-msgid "female^weaponcraft"
-msgstr "кузнец"
-
-msgid "You've learned to take great care of your weapon, knowing that preparation is often decisive on the battlefield. Weaponcraft allows you to use raw materials from your inventory to improve your melee weapon. This is done by right-clicking on your character."
-msgstr ""
-
-# Меню создания персонажа
-
-msgid "Weaponcraft"
-msgstr "Кузнец"
-
-msgid ""
-"You are skilled at preparing and maintaining your weapon.\n"
-"Effect: Allows you to use raw materials to improve melee weapons."
-msgstr ""
-"You are skilled at preparing and maintaining your weapon.\n"
-"Эффект: Allows you to use raw materials to improve melee weapons."
-#endregion
-
-#region Rouser
-msgid "rouser"
-msgstr "буян"
-
-msgid "female^rouser"
-msgstr "буян"
-
-msgid "With fine words and a steely resolve you are able to rouse your allies into performing deeds of bravery. A unit that has been roused begins their turn with two extra movement points. This is done by right-clicking on an adjacent friendly unit. It can only be done once a turn."
-msgstr ""
-
-# Меню создания персонажа
-
-msgid "Rouser"
-msgstr "Буян"
-
-msgid ""
-"You are able to rouse allies into performing deeds of bravery.\n"
-"Effect: Allows you to give others a temporary movement bonus."
-msgstr ""
-"You are able to rouse allies into performing deeds of bravery.\n"
-"Эффект: Allows you to give others a temporary movement bonus."
-#endregion
-
-#region Rider
-msgid "rider"
-msgstr ""
-
-msgid "female^rider"
-msgstr ""
-
-msgid "You are trained in the art of riding. Any animal with the 'mount' ability can be mounted by a rider. This is done by right-clicking on an adjacent unit. To dismount, right-click again on an empty adjacent hex. Whilst mounted your max moves, movetype and pierce resistances are modified."
-msgstr ""
-
-# Меню создания персонажа
-
-msgid "Rider"
-msgstr "Всадник"
-
-msgid ""
-"You are trained in the art of riding.\n"
-"Effect: Allows you to mount and ride horses."
-msgstr ""
-"You are trained in the art of riding.\n"
-"Эффект: Allows you to mount and ride horses."
-#endregion
-
-#region Herbalism
-msgid "herbalism"
-msgstr ""
-
-msgid "female^herbalism"
-msgstr ""
-
-msgid "You have a thorough knowledge of plants and their medicinal properties. Herbalism allows you to use raw materials from your inventory to apply medicinal balms. This is done by right-clicking on your character."
-msgstr ""
-
-# Меню создания персонажа
-
-msgid "Herbalism"
-msgstr "Хербалист"
-
-msgid ""
-"You have a thorough knowledge of plants and their medicinal properties.\n"
-"Effect: Allows you to use raw materials to create simple balms."
-msgstr ""
-"You have a thorough knowledge of plants and their medicinal properties.\n"
-"Эффект: Allows you to use raw materials to create simple balms."
-#endregion
-
-#region Tamer
-msgid "tamer"
-msgstr ""
-
-msgid "female^tamer"
-msgstr ""
-
-msgid "You have a natural affinity with beasts of the wild. Each turn, instead of attacking, a tamer can attempt to tame a creature or monster. This is done by right-clicking on a suitable adjacent unit. A taming attempt has a 60% of success. If the attempt fails the creature will lash out; if it is successful, the creature will join the side of the tamer. However, every subsequent turn there is a 30% chance that the creature will become wild again."
-msgstr ""
-
-# Меню создания персонажа
-
-msgid "Tamer"
-msgstr ""
-
-msgid ""
-"You have a natural affinity with beasts of the wild.\n"
-"Effect: Allows you to temporarily tame creatures."
-msgstr ""
-"You have a natural affinity with beasts of the wild.\n"
-"Эффект: Allows you to temporarily tame creatures."
-#endregion
-
-#region Pickpocket
-msgid "pickpocket"
-msgstr "карманник"
-
-msgid "female^pickpocket"
-msgstr "карманница"
-
-msgid "Your fingers have a habit of slipping into other people's purses. Each turn, instead of attacking, a pickpocket can attempt to steal gold from a unit (but only those likely to carry some). This is done by right-clicking on a suitable adjacent unit. A pickpocket attempt has a 60% of success. If the attempt fails the unit will notice and strike out; if it is successful, the pickpocket earns a small random sum of gold. You can only ever try to pickpocket a unit once, even if the attempt fails. Richer pickings can be found in the pockets of higher level units."
-msgstr ""
-
-# Меню создания персонажа
-
-msgid "Pickpocket"
-msgstr "Карманник"
-
-msgid ""
-"Your fingers have a habit of slipping into other people's purses.\n"
-"Effect: Allows you to steal gold from other units."
-msgstr ""
-"Your fingers have a habit of slipping into other people's purses.\n"
-"Эффект: Allows you to steal gold from other units."
-#endregion
-
-#region Trapper
-msgid "trapper"
-msgstr ""
-
-msgid "female^trapper"
-msgstr ""
-
-msgid "You are skilled at ensnaring both man and beast alike. A trapper can use raw materials from their inventory to create traps. This is done by right-clicking on your character. To set a trap you must right-click on an empty non-water adjacent hex. Traps remain on the map until a unit sets it off or a trapper picks it up."
-msgstr ""
-
-# Меню создания персонажа
-
-msgid "Trapper"
-msgstr ""
-
-msgid ""
-"You are skilled at ensnaring both man and beast alike.\n"
-"Effect: Allows you to make and set traps."
-msgstr ""
-"You are skilled at ensnaring both man and beast alike.\n"
-"Эффект: Allows you to make and set traps."
-#endregion
-
-#region Concoction
-msgid "concoction"
-msgstr ""
-
-msgid "female^concoction"
-msgstr ""
-
-msgid "You have mastered the art of fusing the elements into potent fluids. Concoction allows you to use raw materials from your inventory to create potions. This is done by right-clicking on your character."
-msgstr ""
-
-# Меню создания персонажа
-
-msgid "Concoction"
-msgstr "Алхимик"
-
-msgid ""
-"You have mastered the art of fusing the elements into potent fluids.\n"
-"Effect: Allows you to mix raw materials to create potions."
-msgstr ""
-"You have mastered the art of fusing the elements into potent fluids.\n"
-"Эффект: Позволяет создавать зелья из различного сырья."
-#endregion
-
-#region Conjurer
-msgid "conjurer"
-msgstr ""
-
-msgid "female^conjurer"
-msgstr ""
-
-msgid "You have the power to conjure creatures out of the ether. Conjuring allows you to use raw materials from your inventory to create new units. This is done by right-clicking on an empty non-water adjacent hex. Every turn there is a 30% chance the magic will wane and the conjured creature will vanish."
-msgstr ""
-
-# Меню создания персонажа
-
-msgid "Conjurer"
-msgstr "Колдун"
-
-msgid ""
-"You have the power to conjure creatures out of the ether.\n"
-"Effect: Allows you use raw materials to create new units."
-msgstr ""
-"You have the power to conjure creatures out of the ether.\n"
-"Эффект: Allows you use raw materials to create new units."
-#endregion
-
-#region Casting
-msgid "casting"
-msgstr ""
-
-msgid "female^casting"
-msgstr ""
-
-msgid "You have learned to harness the flux of magic and bind it to your will. Casting allows you to use magic scrolls. This is done by right-clicking on the target of the spell."
-msgstr ""
-#endregion
-
-
-#1 ********** Недостатки **********
-
-#region Naive
-msgid "naive"
-msgstr "наивный"
-
-msgid "female^naive"
-msgstr "наивная"
-
-msgid "You are inexperienced and unprepared for the trials of life. You start with with -5 character points."
-msgstr "Вы неопытны и неподготовлены к жизненным испытаниям. -5 очков персонажа при старте."
-
-# Меню создания персонажа
-
-msgid "Naive"
-msgstr "Наивный"
-
-msgid ""
-"You are inexperienced and unprepared for the trials of life.\n"
-"Effect: You start with -5 character points."
-msgstr ""
-"Вы неопытны и неподготовлены к жизненным испытаниям.\n"
-"Эффект: -5 очков персонажа при старте."
-#endregion
-
-#region Selfish
-msgid "selfish"
-msgstr "эгоист"
-#* msgstr "единоличник"
-
-msgid "female^selfish"
-msgstr "эгоистка"
-
-msgid "You are greedy and your reluctance to share your spoils is usually repaid in kind. You cannot give or be given items."
-msgstr ""
-
-# Меню создания персонажа
-
-msgid "Selfish"
-msgstr "Эгоист"
-
-msgid ""
-"Your greed and reluctance to share your spoils is repaid in kind.\n"
-"Effect: You cannot give or be given items."
-msgstr ""
-"Your greed and reluctance to share your spoils is repaid in kind.\n"
-"Эффект: You cannot give or be given items."
-#endregion
-
-#region Cowardly
-msgid "cowardly"
-msgstr "трусливый"
-
-msgid "female^cowardly"
-msgstr "трусливая"
-
-msgid "You cannot stand the sight of blood, especially your own. You fight worse in melee combat when wounded."
-msgstr "Вы не выносите вида крови, особенно своей собственной. "
-
-# Меню создания персонажа
-
-msgid "Cowardly"
-msgstr "Трусливый"
-
-msgid ""
-"You cannot stand the sight of blood, especially your own.\n"
-"Effect: You fight worse in melee combat when wounded."
-msgstr ""
-"You cannot stand the sight of blood, especially your own.\n"
-"Эффект: You fight worse in melee combat when wounded."
-#endregion
-
-#region Clubfoot
-msgid "clubfoot"
-msgstr "косолапый"
-
-msgid "female^clubfoot"
-msgstr "косолапая"
-
-msgid "Your deformity means you walk with an awkward gait, forever trailing behind. You cannot use the run stance."
-msgstr ""
-
-# Меню создания персонажа
-
-msgid "Clubfoot"
-msgstr "Косолапый"
-
-msgid ""
-"You walk with an awkward gait, forever trailing behind.\n"
-"Effect: You have -1 movement and cannot use the run stance."
-msgstr ""
-"You walk with an awkward gait, forever trailing behind.\n"
-"Эффект: -1 единица передвижения и невозможность бегать."
-#endregion
-
-#region Diseased
-msgid "diseased"
-msgstr "больной"
-
-msgid "female^diseased"
-msgstr "больная"
-
-msgid "Afflicted with a rare ailment, you are clouded by misery and pestilience. At the start of your turn there is a 15% chance you will be poisoned."
-msgstr ""
-
-# Меню создания персонажа
-
-msgid "Diseased"
-msgstr "Больной"
-
-msgid ""
-"Afflicted with a rare ailment, your life is clouded by pestilience.\n"
-"Effect: Every turn there is a 15% chance you'll be poisoned."
-msgstr ""
-"Afflicted with a rare ailment, your life is clouded by pestilience.\n"
-"Эффект: На каждом ходу есть 15% шанс получить отравление."
-#endregion
-
-#region Stupid
-msgid "stupid"
-msgstr "глупый"
-
-msgid "female^stupid"
-msgstr "глупая"
-
-msgid "Ideas don't come easily to you, in fact you struggle with even the simplest of mental tasks."
-msgstr ""
-
-# Меню создания персонажа
-
-msgid "Stupid"
-msgstr "Глупый"
-
-msgid ""
-"You struggle with even the simplest mental tasks.\n"
-"Effect: Your max XP is increased by 20%."
-msgstr ""
-"You struggle with even the simplest mental tasks.\n"
-"Эффект: Максимальный опыт увеличивается на 20%."
-#endregion
-
-#region Psycho
-msgid "psycho"
-msgstr "псих"
-
-msgid "female^psycho"
-msgstr "псих"
-
-msgid "A troubled childhood has left you prone to fits of self-destructive insanity. There is a 10% chance you will start bezerking whenever you make a melee attack."
-msgstr ""
-
-# Меню создания персонажа
-
-msgid "Psycho"
-msgstr "Псих"
-
-msgid ""
-"A troubled childhood has left you prone to fits of insanity.\n"
-"Effect: When you attack there's a 10% chance you'll go bezerk."
-msgstr ""
-"A troubled childhood has left you prone to fits of insanity.\n"
-"Эффект: При атаке 10% шанс впасть в состояние берсерка."
-#endregion
-
 
