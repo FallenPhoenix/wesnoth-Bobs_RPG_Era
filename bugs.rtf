@@ -1,7 +1,20 @@
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fswiss\fcharset0 Arial;}}
-{\*\generator Msftedit 5.41.15.1515;}\viewkind4\uc1\pard\lang2057\f0\fs20 #####################\par
+{\*\generator Msftedit 5.41.15.1515;}\viewkind4\uc1\pard\lang2057\f0\fs20\par
+#####################\par
 # Versions\par
 #####################\par
+\par
+1.4.4\par
+\par
+- Optimsed code\par
+- Fixed numerous minor bugs\par
+- Rewrote the code for scattering items and reduced the number on trent\par
+- Stuff like stances, talents and inventory are now available with 0 moves (as long as you haven't attacked)\par
+- Tried to make translations easier\par
+\par
+1.4.3\par
+\par
+- Fixed clubfoot and stupid\par
 \par
 1.4.2\par
 \par
@@ -84,9 +97,6 @@
 # Bugs\par
 #####################\par
 \par
-\par
-\par
-\par
 would a delay make the printed messages more readable?\par
 \b 'an' endurance potion\b0\par
 \b traps not showing in inventory\b0\par
@@ -109,10 +119,8 @@ should conjured units drop items?\par
 heal every level?\par
 does levelling replace stance overlay?\par
 for giving item which have more than x, allow to specify how many?\par
-\par
 add 1 move for shoppers, to stop it being blocked\par
 slime description different in giving (check others)\par
-\par
 limit rouse to once per turn\par
 \b tent description in shop\b0\par
 \i dwarf ranger animations are switched\i0\par
@@ -129,7 +137,7 @@ book portrait for help section?\par
 \b mind juice does not level up\par
 \b0 poison trap does not work, poison poison neither\par
 recolour dragon tail, reposition ulox image\par
-\par
+To fix deserialisation: ust add an [if] [variable] name=stored_unit.length greater_than=0 if you want to avoid that (without adding the loop)\par
 \par
 #####################\par
 # Ongoing Issues\par
