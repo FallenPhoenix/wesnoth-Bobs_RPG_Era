@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Bob's RPG Era v1.4.2\n"
+"Project-Id-Version: Bob's RPG Era v1.4.4\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: F. Phoenix\n"
@@ -17,12 +17,12 @@ msgid "Bob's RPG Era"
 msgstr ""
 
 msgid ""
-"Version 1.4.2\n \n"
+"Version 1.4.4\n \n"
 "- Right-click on your unit to design your character.\n"
 "- Disable autosaves if the game is lagging at the start of turns.\n"
 "- Please report bugs or leave feedback on the forum thread."
 msgstr ""
-"Версия 1.4.2\n \n"
+"Версия 1.4.4\n \n"
 "- Для выбора особых характеристик персонажа воспользуйтесь его контекстным меню.\n"
 "- Если игра лагает в начале хода, попробуйте отключить автосохранение.\n"
 "- Сообщить о багах или оставить отзыв по эре можно в соответствующей теме на форуме."
@@ -33,13 +33,13 @@ msgid "Bob's RPG Era: Competitive Mode"
 msgstr "Bob's RPG Era: Режим противостояния"
 
 msgid ""
-"Version 1.4.2\n \n"
+"Version 1.4.4\n \n"
 "- Right-click on your unit to design your character.\n"
 "- Disable autosaves if the game is lagging at the start of turns.\n"
 "- Please report bugs or leave feedback on the forum thread.\n \n"
 "- Competitive mode is intended for survivals and standard battle maps with 1-6 players."
 msgstr ""
-"Версия 1.4.2\n \n"
+"Версия 1.4.4\n \n"
 "- Для выбора особых характеристик персонажа воспользуйтесь его контекстным меню.\n"
 "- Если игра лагает в начале хода, попробуйте отключить автосохранение.\n"
 "- Сообщить о багах или оставить отзыв по эре можно в соответствующей теме на форуме.\n \n"
@@ -761,11 +761,16 @@ msgstr ""
 
 #1 ********** Использование навыков **********
 
+#region Weaponcraft
+msgid "$character[$side_number].name has used Weaponcraft."
+msgstr ""
+#endregion
+
 #region Herbalism
 msgid "Herbalism allows you to use raw materials from your inventory to make medicinal balms and broths. The effects are instant."
 msgstr ""
 
-msgid "$character[$side_number].name has used Herbalism"
+msgid "$character[$side_number].name has used Herbalism."
 msgstr ""
 #endregion
 
@@ -800,10 +805,70 @@ msgstr ""
 
 msgid "Trapper allows you to set traps on the ground. Traps remain in play unless they are triggered or a trapper picks them up. You cannot set more than one of the same trap on a hex. Remember, all units are affected by traps - even friendly ones."
 msgstr ""
+
+msgid "$character[$side_number].name has made a bomb trap."
+msgstr ""
+
+msgid "$character[$side_number].name has made a poison trap."
+msgstr ""
+
+msgid "$character[$side_number].name has made a net trap."
+msgstr ""
+
+msgid "$character[$side_number].name has set a bomb trap."
+msgstr ""
+
+msgid "$character[$side_number].name has set a poison trap."
+msgstr ""
+
+msgid "$character[$side_number].name has set a net trap."
+msgstr ""
+
+msgid "$character[$side_number].name has picked up a bomb trap."
+msgstr ""
+
+msgid "$character[$side_number].name has picked up a poison trap."
+msgstr ""
+
+msgid "$character[$side_number].name has picked up a net trap."
+msgstr ""
 #endregion
 
 #region Concoction
 msgid "Concoction allows you to create potions by mixing two raw materials. Any potions you make will be added to your inventory."
+msgstr ""
+
+msgid "$character[$side_number].name has concocted a Health Potion."
+msgstr ""
+
+msgid "$character[$side_number].name has concocted an Endurance Potion."
+msgstr ""
+
+msgid "$character[$side_number].name has concocted a Stamina Potion."
+msgstr ""
+
+msgid "$character[$side_number].name has concocted a Life Potion."
+msgstr ""
+
+msgid "$character[$side_number].name has concocted a Brainhaste Tonic."
+msgstr ""
+
+msgid "$character[$side_number].name has concocted some Mind Juice."
+msgstr ""
+
+msgid "$character[$side_number].name has concocted an Antidote."
+msgstr ""
+
+msgid "$character[$side_number].name has concocted some Speed Serum."
+msgstr ""
+
+msgid "$character[$side_number].name has concocted an Energy Cocktail."
+msgstr ""
+
+msgid "$character[$side_number].name has concocted some Bloodlust Bile."
+msgstr ""
+
+msgid "$character[$side_number].name has concocted some Frenzy Fluid."
 msgstr ""
 #endregion
 
@@ -2538,11 +2603,11 @@ msgstr "Боевые стойки"
 
 msgid ""
 "\n<span size='small'>- Stances add temporary bonuses and penalties which are reversed when the stance is changed.\n"
-"- They allow unit's stats to be altered to suit the situation - and preference of the player.\n"
+"- They allow units' stats to be altered to suit the situation - and preference of the player.\n"
 "- Your current stance is displayed with an icon overlayed on the unit.</span>"
 msgstr ""
 "\n<span size='small'>- Stances add temporary bonuses and penalties which are reversed when the stance is changed.\n"
-"- They allow unit's stats to be altered to suit the situation - and preference of the player.\n"
+"- They allow units' stats to be altered to suit the situation - and preference of the player.\n"
 "- Текущая стойка отображается небольшим значком над бойцом.</span>"
 #endregion
 
@@ -2551,14 +2616,16 @@ msgid "help^Inventory"
 msgstr "Инвентарь"
 
 msgid ""
-"\n<span size='small'>- Certain items in the inventory have one use (click on a potion, for instance, and you drink it).\n"
+"\n<span size='small'>- All characters begin with a random selection of minor items. More can be found or bought at shops.\n"
+"- Certain items in the inventory have one use (click on a potion, for instance, and you drink it).\n"
 "- Characters can only use different weapons if they have the relevant weapon skill (for example, bowmanship allows you to use various types of bows).\n"
 "- Click on your current weapon at the top of your inventory to equip a new weapon.\n"
 "- You can also give items and gold to another player by right-clicking on them when you are in an adjacent hex.\n"
 "- When a character dies, all their stuff gets dumped on the ground allowing other players to pick it up.\n"
 "- However, items and weapons in use at the time of death are assumed to be either destroyed or stolen (or perhaps buried in a ritualistic fashion with the corpse).</span>"
 msgstr ""
-"\n<span size='small'>- Certain items in the inventory have one use (click on a potion, for instance, and you drink it).\n"
+"\n<span size='small'>- All characters begin with a random selection of minor items. More can be found or bought at shops.\n"
+"- Certain items in the inventory have one use (click on a potion, for instance, and you drink it).\n"
 "- Characters can only use different weapons if they have the relevant weapon skill (for example, bowmanship allows you to use various types of bows).\n"
 "- Click on your current weapon at the top of your inventory to equip a new weapon.\n"
 "- You can also give items and gold to another player by right-clicking on them when you are in an adjacent hex.\n"
@@ -2645,38 +2712,27 @@ msgid "Giving Gold"
 msgstr "Передача золота"
 
 msgid ""
-"How much gold will you give to $character[$unit.side].name|?\n \n"
-"You have: $giver.gold|g\n"
-"$character[$unit.side].name has: $taker.gold|g"
+"How much gold will you give to $unit.name|?\n \n"
+"$unit.name currently has: $taker.gold|g"
 msgstr ""
 "Сколько золота вы дадите игроку $character[$unit.side].name|?\n \n"
-"У вас: $giver.gold|з\n"
-"У него: $taker.gold|з"
+"Сейчас у него: $taker.gold|з"
 
-msgid "Back"
-msgstr "Назад"
+msgid "give_gold^Amount: "
+msgstr "Сумма: "
 
-msgid "Give 1g"
-msgstr "Дать 1 золотой"
-
-msgid "$character[$side_number].name has given $character[$unit.side].name 1 gold piece"
-msgstr "$character[$side_number].name дал 1 золотой $character[$unit.side].name|."
-
-msgid "Give 10g"
-msgstr "Дать 10 золотых"
-
-msgid "$character[$side_number].name has given $character[$unit.side].name 10 gold pieces"
-msgstr "$character[$side_number].name дал 10 золотых $character[$unit.side].name|."
-
-msgid "Give 50g"
-msgstr "Дать 50 золотых"
-
-msgid "$character[$side_number].name has given $character[$unit.side].name 50 gold pieces"
-msgstr "$character[$side_number].name дал 50 золотых $character[$unit.side].name|."
+msgid "$character[$side_number].name has given $unit.name $donation gold pieces"
+msgstr "$character[$side_number].name дал $donation золотых $unit.name|."
 
 
 #2 ***** Общее *****
 
 msgid "Return To Game"
 msgstr "Вернуться в игру"
+
+
+#1 ********** Различные строки **********
+
+msgid "$character[$side_number].name has found an item"
+msgstr "$character[$side_number].name нашёл предмет."
 
