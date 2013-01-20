@@ -1,8 +1,141 @@
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fswiss\fcharset0 Arial;}}
-{\*\generator Msftedit 5.41.15.1515;}\viewkind4\uc1\pard\lang2057\f0\fs20\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang2057\f0\fs20 #####################\par
+# Bugs\par
+#####################\par
+\par
+would a delay make the printed messages more readable?\par
+\b 'an' endurance potion\b0\par
+\b traps not showing in inventory\b0\par
+the title for perks not showing for ranger\par
+\b it seems possible to pickpocket other players, even when they have 0g - in fact it seems to set the player's gold to the value of whatever got stolen\par
+\b0 icon for psycho?\par
+a mudcrawler was conjured, then tamed, then went wild, then vanished - but it said wild when it died\par
+brightens does affect adjacent units, at least enemy ones\par
+make scare affect not just lower level units?\par
+add gold system from TAM\par
+stance heading not showing when only run has been got\par
+fix knockout and knockback\par
+remove elven weapon variations?\par
+prevent pickpocketing from allies\par
+give more initial character points in competitive mode?\par
+lower disease rate\par
+inital items based on race and class?\par
+should conjured units drop items?\par
++1max hp every level?\par
+heal every level?\par
+does levelling replace stance overlay?\par
+for giving item which have more than x, allow to specify how many?\par
+add 1 move for shoppers, to stop it being blocked\par
+\b slime description different in giving (check others)\b0\par
+\b limit rouse to once per turn\b0\par
+\b tent description in shop\b0\par
+\i dwarf ranger animations are switched\i0\par
+\i stances heading missing (when showing attack, blitz and defend)\i0\par
+\b storm bow - cold?\b0\par
+\b include ToD on surprise\b0\par
+\b are leaves and rocks still +3?\b0\par
+one trap per hex?\par
+\b is female is picked - portraits suitable?\b0\par
+\b stance messages have a translation mark, and giving\b0\par
+book portrait for help section?\par
+\b talk in character needs a new icon, and the output all has translation marks (maybe two underscores)\par
+item distribution needs to account for all the new terrains\b0\par
+\b mind juice does not level up\par
+poison trap does not work, poison poison neither\b0\par
+recolour dragon tail, reposition ulox image\par
+To fix deserialisation: ust add an [if] [variable] name=stored_unit.length greater_than=0 if you want to avoid that (without adding the loop)\par
+\par
+#####################\par
+# Ongoing Issues\par
+#####################\par
+\par
+Add more weapons and items\par
+Reintroduce the soul when you die?\par
+\b Should setting traps be available with 0 moves?\b0\par
+make printed messages colour-cooridnated with sides?\par
+\b Fix rider\b0\par
+Overlays for tamed/conjured units?\par
+reduce size of portraits in initial selection\par
+multiple types of footwear can be worn at the same time\par
+\b darkens not working!\par
+brightens not working!\b0\par
+\par
+printed messages should last longer\par
+conjured wose sapling doesn't drop bark when it dies\par
+orc raider should destroy buildings?\par
+no death animation for conjured units\par
+levelling should cure all criticals\par
+\b does diseased work?\b0\par
+\b could not show 'units/human-outlaws/thief female-die-7.png'\b0\par
+50% chance of a wolf etc dropping item?\par
+\b only rangers can pack tents?\b0\par
+\b new image for dragon tail\b0\par
+\b it says dragon tail is used in concoction\b0\par
+magic bean - great tree on any terrain?\par
+a tamed scorpion still had the tamed ability\par
+character death seemed to happen twice, reappearing after dialogue (under fog)\par
+\b full stops in printed messages?\b0\par
+xp bonus should be added with object, does not modify with the amla\par
+invisibility potion!\par
+\par
+tents can be pitched anywhere, even in swamp\par
+\b things like tents, potions and herbalism should use heal unit tag\b0\par
+\b pickpockets needs to be rewritten with harm unit\b0\par
+XP for using skills?\par
+\b terrain perks aren't set to no\b0\par
+should only be able to give to active players\par
+need to add knockout and knockback\par
+\par
+\par
+\par
+\par
 #####################\par
 # Versions\par
 #####################\par
+\par
+1.4.7\par
+- Put critical hit code into a seperate file\par
+- Redid the 1.4.5 changes missed by FB\par
+- Fixed missing magician ranged animations caused by renaming all the attacks\par
+- Fixed armour>back to inventory menu option\par
+- The rider talent now works for Human Lieutenant and Elf Ranger\par
+- Reintroduced item specific pick-up messages\par
+- Added two new defect traits: gambler and unlucky\par
+- Fixed diseased defect\par
+- Updated inventory icons, elf magicians now have 'robe' armour\par
+- Ice Rod now does cold damage\par
+- Made the attack names of all units lower case\par
+- Bombs and suicide bombs now use the [harm_unit] tag (and do impact damage)\par
+- Potions, herbalism and tent now use [heal_unit] tag\par
+- Changed horse's race to 'animal'\par
+- Fixed the pickpocket gold floating message\par
+- Floating messages for xp bonuses, now in white\par
+- Stopped level 0 units triggering mentor (since they give no XP)\par
+- Prevented traps from slowing and poisoning units already slowed or poisoned\par
+- Prevented speed serum from being drunk if already at full moves\par
+- Renamed sabre to saber to fit in with FB's changes (added missing option to give saber)\par
+- Fixed two bugs on plague staff (the weapon special wasn't removed and the negative damage modifier caused errors)\par
+- If shoppers have 0 moves, they get a bonus move point to stop them blocking the hex\par
+- All the unit descriptions now show weapon proficiencies\par
+- Swampcrawlers were missing a projectile\par
+\par
+1.4.6\par
+\par
+- Added FP's test scenario and translations\par
+- Fixed starting weapons for Elf Hero, Elf Archer, Elf Lord and Trapper\par
+- Mind Juice was working, but hadbad script brackets (inventory.cfg)\par
+- Show shoes has incorrect conditions to show inside inventory (inventory.cfg, improve_character.cfg)\par
+- Storm Bow's damage type conflicted with its description (examining_items.cfg)\par
+- Enchantend Spear attack had underline symbol in name (examining_items.cfg)\par
+- Nim Boots had +1 movement bonus instead of +10% flat defence (shops.cfg)\par
+- Plague Staff had cold type in description instead of truely impact type (shops.cfg)\par
+- Bomb trap has description with 10 dmg instead of 12 (giving.cfg)\par
+- Knockout special wasn't removed when axe unequipped, cause Bob forget to set its ID (abilities.cfg)\par
+\par
+1.4.5\par
+\par
+- Fixed energy cocktail and bloodlust bile\par
+- Fixed the lieutenant's animations\par
 \par
 1.4.4\par
 \par
@@ -93,66 +226,7 @@
 - Fixed the bug that allowed firststrike to be bought repeatedly, as pointed out by Slann\par
 - Fixed the Dwarf ranger animations\par
 \par
-#####################\par
-# Bugs\par
-#####################\par
-\par
-would a delay make the printed messages more readable?\par
-\b 'an' endurance potion\b0\par
-\b traps not showing in inventory\b0\par
-the title for perks not showing for ranger\par
-\b it seems possible to pickpocket other players, even when they have 0g - in fact it seems to set the player's gold to the value of whatever got stolen\par
-\b0 icon for psycho?\par
-a mudcrawler was conjured, then tamed, then went wild, then vanished - but it said wild when it died\par
-brightens does affect adjacent units, at least enemy ones\par
-make scare affect not just lower level units?\par
-add gold system from TAM\par
-stance heading not showing when only run has been got\par
-fix knockout and knockback\par
-remove elven weapon variations?\par
-prevent pickpocketing from allies\par
-give more initial character points in competitive mode?\par
-lower disease rate\par
-inital items based on race and class?\par
-should conjured units drop items?\par
-+1max hp every level?\par
-heal every level?\par
-does levelling replace stance overlay?\par
-for giving item which have more than x, allow to specify how many?\par
-add 1 move for shoppers, to stop it being blocked\par
-slime description different in giving (check others)\par
-limit rouse to once per turn\par
-\b tent description in shop\b0\par
-\i dwarf ranger animations are switched\i0\par
-\i stances heading missing (when showing attack, blitz and defend)\i0\par
-storm bow - cold?\par
-include ToD on surprise\par
-are leaves and rocks still +3?\par
-one trap per hex?\par
-\b is female is picked - portraits suitable?\b0\par
-\b stance messages have a translation mark, and giving\b0\par
-book portrait for help section?\par
-\b talk in character needs a new icon, and the output all has translation marks (maybe two underscores)\par
-\b0 item distribution needs to account for all the new terrains\par
-\b mind juice does not level up\par
-\b0 poison trap does not work, poison poison neither\par
-recolour dragon tail, reposition ulox image\par
-To fix deserialisation: ust add an [if] [variable] name=stored_unit.length greater_than=0 if you want to avoid that (without adding the loop)\par
-\par
-#####################\par
-# Ongoing Issues\par
-#####################\par
-\par
-Add more weapons and items\par
-Reintroduce the soul when you die?\par
-Should setting traps be available with 0 moves?\par
-make printed messages colour-cooridnated with sides?\par
-Fix rider\par
-Overlays for tamed/conjured units?\par
-reduce size of portraits in initial selection\par
-multiple types of footwear can be worn at the same time\par
-darkens not working!\par
-brightens not working!\b\par
+\b\par
 \par
 \b0\par
 \par
